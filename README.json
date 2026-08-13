@@ -1,0 +1,620 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ICSE'21 - Log-based Anomaly Detection with Deep Learning: How Far Are We?",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-09-27T04:10:55Z",
+            "owner": "LogIntelligence",
+            "repo": "LogADEmpirical",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICSE'23 - Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-07T13:48:31Z",
+            "owner": "BEbillionaireUSD",
+            "repo": "Eadro",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robust multimodal failure detection for microservice systems",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-15T02:54:04Z",
+            "owner": "AIOps-Lab-NKU",
+            "repo": "AnoFusion",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UAC-AD: Unsupervised Adversarial Contrastive Learning for Anomaly Detection on Multi-modal Data in Microservice Systems",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-29T13:24:19Z",
+            "owner": "lhysgithub",
+            "repo": "UAC-AD",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Anomaly Detection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "SIGCOMM'23 - Network-centric distributed tracing with deepflow: Troubleshooting your microservices in zero code",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T09:26:44Z",
+            "owner": "deepflowio",
+            "repo": "deepflow",
+            "stars": 4225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICLR'25 - OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-25T14:33:11Z",
+            "owner": "microsoft",
+            "repo": "OpenRCA",
+            "stars": 404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WWW'25 - RCAEval: A Benchmark for Root Cause Analysis of Microservice Systems with Telemetry Data",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-02T04:53:04Z",
+            "owner": "phamquiluan",
+            "repo": "RCAEval",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASE'24 - Root Cause Analysis for Microservice System based on Causal Inference: How Far Are We?",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-02T04:53:04Z",
+            "owner": "phamquiluan",
+            "repo": "RCAEval",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KDD'22 - Causal Inference-Based Root Cause Analysis for Online Service Systems with Intervention Recognition",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-13T04:32:10Z",
+            "owner": "NetManAIOps",
+            "repo": "CIRCA",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FSE'22 - Actionable and interpretable fault localization for recurring failures in online service systems.",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2022-10-24T05:57:13Z",
+            "owner": "NetManAIOps",
+            "repo": "DejaVu",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FSE'23 - Nezha: Interpretable Fine-Grained Root Causes Analysis for Microservices on Multi-modal Observability Data",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-20T08:03:06Z",
+            "owner": "IntelligentDDS",
+            "repo": "Nezha",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NeuIPS'22 - Root Cause Discovery: Root Cause Analysis of Failures in Microservices through Causal Discovery",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-26T16:26:09Z",
+            "owner": "azamikram",
+            "repo": "rcd",
+            "stars": 71
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FSE'24 - BARO: Robust Root Cause Analysis for Microservices via Multivariate Bayesian Online Change Point Detection",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-03-10T04:05:17Z",
+            "owner": "phamquiluan",
+            "repo": "baro",
+            "stars": 67
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICSE'23 - Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-07T13:48:31Z",
+            "owner": "BEbillionaireUSD",
+            "repo": "Eadro",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HeMiRCA: Fine-Grained Root Cause Analysis for Microservices with Heterogeneous Data Sources",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-08T11:45:07Z",
+            "owner": "zhouruixingzhu",
+            "repo": "HeMiRCA",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Root Cause Analysis / Fault Localization"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "2020 - Loghub: a large collection of system log datasets towards automated log analytics.",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-13T05:39:08Z",
+            "owner": "logpai",
+            "repo": "loghub",
+            "stars": 2794
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ICSE'19 - Tools and Benchmarks for Automated Log Parsing.",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-10T23:50:49Z",
+            "owner": "logpai",
+            "repo": "logparser",
+            "stars": 1988
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WWW'25 - RCAEval: A Benchmark for Root Cause Analysis of Microservice Systems with Telemetry Data",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-08-02T04:53:04Z",
+            "owner": "phamquiluan",
+            "repo": "RCAEval",
+            "stars": 200
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TNSM'2017 - Mining causality of network events in log data.",
+          "description": "[Code]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-07-01T08:31:02Z",
+            "owner": "cpflat",
+            "repo": "LogCausalAnalysis",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ISSRE'22 - Going through the Life Cycle of Faults in Clouds: Guidelines on Fault Handling",
+          "description": "[Code, Data]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-13T23:45:27Z",
+            "owner": "IntelligentDDS",
+            "repo": "Post-mortems-Analysis",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Others Paper"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cAdvisor (Container Advisor)",
+          "description": "Analyzes resource usage and performance characteristics of running containers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-07-20T21:23:51Z",
+            "owner": "google",
+            "repo": "cadvisor",
+            "stars": 19355
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus - Node Exporter",
+          "description": "Exporter for machine metrics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-08T07:43:51Z",
+            "owner": "prometheus",
+            "repo": "node_exporter",
+            "stars": 13696
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tsfresh",
+          "description": "Automatic extraction of relevant features from time series.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-07-06T01:28:19Z",
+            "owner": "blue-yonder",
+            "repo": "tsfresh",
+            "stars": 9284
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prometheus - Blackbox prober exporter",
+          "description": "Allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP, ICMP and gRPC.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T21:32:12Z",
+            "owner": "prometheus",
+            "repo": "blackbox_exporter",
+            "stars": 5824
+          }
+        }
+      ],
+      "title": "Metrics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ELK (Elasticsearch",
+          "description": "+ Logstash + Kibana)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T10:43:47Z",
+            "owner": "elastic",
+            "repo": "elasticsearch",
+            "stars": 77845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EFK (Elasticsearch",
+          "description": "+ Fluentd + Kibana)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-13T10:43:47Z",
+            "owner": "elastic",
+            "repo": "elasticsearch",
+            "stars": 77845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/grafana/loki",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T10:49:48Z",
+            "owner": "grafana",
+            "repo": "loki",
+            "stars": 28723
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/logpai/loglizer",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2024-04-24T05:32:52Z",
+            "owner": "logpai",
+            "repo": "loglizer",
+            "stars": 1428
+          }
+        }
+      ],
+      "title": "Logs"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/apache/skywalking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T02:00:34Z",
+            "owner": "apache",
+            "repo": "skywalking",
+            "stars": 24921
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/jaegertracing/jaeger",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T22:46:44Z",
+            "owner": "jaegertracing",
+            "repo": "jaeger",
+            "stars": 23097
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "https://github.com/openzipkin/zipkin",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-06T04:10:29Z",
+            "owner": "openzipkin",
+            "repo": "zipkin",
+            "stars": 17452
+          }
+        }
+      ],
+      "title": "Traces"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Locust",
+          "description": "a load testing tool for web applications. It is used to simulate a large number of users accessing a web application simultaneously, in order to test its performance and scalability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T14:07:35Z",
+            "owner": "locustio",
+            "repo": "locust",
+            "stars": 28069
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vegeta",
+          "description": "HTTP load testing tool and library. It's over 9000!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-02-16T14:07:07Z",
+            "owner": "tsenart",
+            "repo": "vegeta",
+            "stars": 25144
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jmeter",
+          "description": "a testing tool used to test the performance of web applications, databases, and APIs. It can simulate a heavy load on a server, group of servers, network, or object to test its strength or to analyze overall performance under different load types. It can also be used to test the performance of different protocols such as HTTP, FTP, TCP, JDBC, and JMS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-07-20T14:16:07Z",
+            "owner": "apache",
+            "repo": "jmeter",
+            "stars": 9503
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "wrk2",
+          "description": "HTTP workload generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2024-03-03T13:40:01Z",
+            "owner": "giltene",
+            "repo": "wrk2",
+            "stars": 4619
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stress-ng",
+          "description": "a tool that can be used to stress test various aspects of a Linux system, such as the CPU, memory, I/O, and network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-13T07:38:15Z",
+            "owner": "ColinIanKing",
+            "repo": "stress-ng",
+            "stars": 2737
+          }
+        }
+      ],
+      "title": "Load generators"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "https://github.com/Netflix/chaosmonkey",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2025-01-06T08:37:10Z",
+            "owner": "Netflix",
+            "repo": "chaosmonkey",
+            "stars": 17076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chaos Mesh",
+          "description": "an open-source chaos engineering platform for Kubernetes. It provides a set of APIs and CLI tools that allow users to define and orchestrate chaos experiments, such as network latency injection, pod failure, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-07T17:44:46Z",
+            "owner": "chaos-mesh",
+            "repo": "chaos-mesh",
+            "stars": 7844
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChaosBlade",
+          "description": "a performance testing and analysis tool for microservices. It allows users to simulate various types of failures and network conditions, such as network delays and packet loss, to test the resilience and stability of microservices in a controlled environment.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T16:20:38Z",
+            "owner": "chaosblade-io",
+            "repo": "chaosblade",
+            "stars": 6489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chaos Toolkit",
+          "description": "a CLI tool which helps to run Chaos Engineering experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T19:56:48Z",
+            "owner": "chaostoolkit",
+            "repo": "chaostoolkit",
+            "stars": 2017
+          }
+        }
+      ],
+      "title": "Chaos Engineering / Fault Injection"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T10:59:33.714Z",
+    "original_repository": "phamquiluan/awesome-failure-diagnosis",
+    "original_repository_sha": "9faf3445feecd2c10c276ed82c788bb3cdc0d7df",
+    "enhanced_repository": "enhansome/enhansome-failure-diagnosis",
+    "enhanced_repository_description": null,
+    "title": "Awesome Failure Diagnosis for Software Systems with stars"
+  }
+}
