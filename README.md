@@ -160,33 +160,33 @@
 
 ## Metrics
 
-* [cAdvisor (Container Advisor)](https://github.com/google/cadvisor) ⭐ 19,366 | 🐛 65 | 🌐 Go | 📅 2026-07-20: Analyzes resource usage and performance characteristics of running containers.
-* [Prometheus - Node Exporter](https://github.com/prometheus/node_exporter) ⭐ 13,703 | 🐛 322 | 🌐 Go | 📅 2026-08-19: Exporter for machine metrics.
+* [cAdvisor (Container Advisor)](https://github.com/google/cadvisor) ⭐ 19,369 | 🐛 65 | 🌐 Go | 📅 2026-07-20: Analyzes resource usage and performance characteristics of running containers.
+* [Prometheus - Node Exporter](https://github.com/prometheus/node_exporter) ⭐ 13,704 | 🐛 322 | 🌐 Go | 📅 2026-08-19: Exporter for machine metrics.
 * [tsfresh](https://github.com/blue-yonder/tsfresh) ⭐ 9,292 | 🐛 71 | 🌐 Jupyter Notebook | 📅 2026-07-06: Automatic extraction of relevant features from time series.
-* [Prometheus - Blackbox prober exporter](https://github.com/prometheus/blackbox_exporter) ⭐ 5,825 | 🐛 170 | 🌐 Go | 📅 2026-08-12: Allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP, ICMP and gRPC.
+* [Prometheus - Blackbox prober exporter](https://github.com/prometheus/blackbox_exporter) ⭐ 5,826 | 🐛 170 | 🌐 Go | 📅 2026-08-12: Allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP, ICMP and gRPC.
 * <https://prometheus.io/docs>
 
 ## Logs
 
-* ELK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,835 | 🐛 5,968 | 🌐 Java | 📅 2026-08-19 + [Logstash](https://www.elastic.co/logstash/) + [Kibana](https://www.elastic.co/kibana/))
-* EFK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,835 | 🐛 5,968 | 🌐 Java | 📅 2026-08-19 + [Fluentd](https://www.fluentd.org/) + [Kibana](https://www.elastic.co/kibana/))
-* <https://github.com/grafana/loki> ⭐ 28,760 | 🐛 1,745 | 🌐 Go | 📅 2026-08-19
+* ELK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,838 | 🐛 5,975 | 🌐 Java | 📅 2026-08-19 + [Logstash](https://www.elastic.co/logstash/) + [Kibana](https://www.elastic.co/kibana/))
+* EFK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,838 | 🐛 5,975 | 🌐 Java | 📅 2026-08-19 + [Fluentd](https://www.fluentd.org/) + [Kibana](https://www.elastic.co/kibana/))
+* <https://github.com/grafana/loki> ⭐ 28,760 | 🐛 1,746 | 🌐 Go | 📅 2026-08-19
 * <https://github.com/logpai/loglizer> ⭐ 1,429 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2024-04-24
 
 ## Traces
 
-* <https://github.com/apache/skywalking> ⭐ 24,924 | 🐛 21 | 🌐 Java | 📅 2026-08-15
-* <https://github.com/jaegertracing/jaeger> ⭐ 23,114 | 🐛 563 | 🌐 Go | 📅 2026-08-19
+* <https://github.com/apache/skywalking> ⭐ 24,925 | 🐛 21 | 🌐 Java | 📅 2026-08-15
+* <https://github.com/jaegertracing/jaeger> ⭐ 23,117 | 🐛 563 | 🌐 Go | 📅 2026-08-19
 * <https://github.com/openzipkin/zipkin> ⭐ 17,454 | 🐛 175 | 🌐 Java | 📅 2026-08-06
 * [OpenTelemetry](https://opentelemetry.io/docs/concepts/signals/): supports metrics, logs, and traces.
 
 ## Load generators
 
-* [Locust](https://github.com/locustio/locust) ⭐ 28,078 | 🐛 4 | 🌐 Python | 📅 2026-08-19: a load testing tool for web applications. It is used to simulate a large number of users accessing a web application simultaneously, in order to test its performance and scalability.
+* [Locust](https://github.com/locustio/locust) ⭐ 28,079 | 🐛 4 | 🌐 Python | 📅 2026-08-19: a load testing tool for web applications. It is used to simulate a large number of users accessing a web application simultaneously, in order to test its performance and scalability.
 * [Vegeta](https://github.com/tsenart/vegeta) ⭐ 25,152 | 🐛 122 | 🌐 Go | 📅 2026-02-16: HTTP load testing tool and library. It's over 9000!
 * [Jmeter](https://github.com/apache/jmeter) ⭐ 9,510 | 🐛 969 | 🌐 Java | 📅 2026-08-14: a testing tool used to test the performance of web applications, databases, and APIs. It can simulate a heavy load on a server, group of servers, network, or object to test its strength or to analyze overall performance under different load types. It can also be used to test the performance of different protocols such as HTTP, FTP, TCP, JDBC, and JMS.
 * [wrk2](https://github.com/giltene/wrk2) ⭐ 4,623 | 🐛 106 | 🌐 C | 📅 2024-03-03: HTTP workload generator.
-* [Stress-ng](https://github.com/ColinIanKing/stress-ng) ⭐ 2,741 | 🐛 2 | 🌐 C | 📅 2026-08-18: a tool that can be used to stress test various aspects of a Linux system, such as the CPU, memory, I/O, and network.
+* [Stress-ng](https://github.com/ColinIanKing/stress-ng) ⭐ 2,741 | 🐛 2 | 🌐 C | 📅 2026-08-19: a tool that can be used to stress test various aspects of a Linux system, such as the CPU, memory, I/O, and network.
 
 ## Chaos Engineering / Fault Injection
 
@@ -231,8 +231,8 @@
 
 # Others
 
-* <https://github.com/donnemartin/system-design-primer> ⭐ 364,800 | 🐛 608 | 🌐 Python | 📅 2026-03-20
-* <https://github.com/awesome-foss/awesome-sysadmin> ⭐ 34,925 | 🐛 0 | 📅 2026-08-19
+* <https://github.com/donnemartin/system-design-primer> ⭐ 364,830 | 🐛 608 | 🌐 Python | 📅 2026-03-20
+* <https://github.com/awesome-foss/awesome-sysadmin> ⭐ 34,927 | 🐛 0 | 📅 2026-08-19
 * <https://github.com/dastergon/awesome-sre> ⭐ 13,446 | 🐛 97 | 📅 2025-08-28
 * <https://github.com/upgundecha/howtheysre> ⭐ 9,799 | 🐛 11 | 🌐 JavaScript | 📅 2025-11-17
 * <https://github.com/yzhao062/anomaly-detection-resources> ⭐ 9,365 | 🐛 14 | 🌐 Python | 📅 2026-03-02
