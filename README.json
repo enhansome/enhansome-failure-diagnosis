@@ -323,6 +323,28 @@
           "description": null,
           "node_type": "group",
           "title": "Others Paper"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/mooselab/DevOpsDataCollection",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 375047338,
+                "language": null,
+                "last_commit": "2025-09-15T17:58:41Z",
+                "owner": "mooselab",
+                "repo": "DevOpsDataCollection",
+                "stars": 26
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Misc"
         }
       ],
       "title": "Reading"
@@ -342,7 +364,7 @@
             "last_commit": "2026-08-11T21:03:17Z",
             "owner": "GoogleCloudPlatform",
             "repo": "microservices-demo",
-            "stars": 20863
+            "stars": 20864
           }
         },
         {
@@ -453,7 +475,7 @@
             "last_commit": "2026-06-03T02:11:46Z",
             "owner": "alibaba",
             "repo": "clusterdata",
-            "stars": 2152
+            "stars": 2153
           }
         },
         {
@@ -536,7 +558,7 @@
                 "last_commit": "2026-08-21T14:33:31Z",
                 "owner": "prometheus",
                 "repo": "node_exporter",
-                "stars": 13716
+                "stars": 13718
               }
             },
             {
@@ -566,7 +588,7 @@
                 "last_commit": "2026-08-24T07:22:11Z",
                 "owner": "prometheus",
                 "repo": "blackbox_exporter",
-                "stars": 5839
+                "stars": 5840
               }
             }
           ],
@@ -585,7 +607,7 @@
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-24T10:18:35Z",
+                "last_commit": "2026-08-24T14:43:33Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
                 "stars": 77856
@@ -600,7 +622,7 @@
                 "archived": false,
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-24T10:18:35Z",
+                "last_commit": "2026-08-24T14:43:33Z",
                 "owner": "elastic",
                 "repo": "elasticsearch",
                 "stars": 77856
@@ -615,10 +637,10 @@
                 "archived": false,
                 "id": 129717717,
                 "language": "Go",
-                "last_commit": "2026-08-24T09:27:31Z",
+                "last_commit": "2026-08-24T14:09:04Z",
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28777
+                "stars": 28778
               }
             },
             {
@@ -652,7 +674,7 @@
                 "archived": false,
                 "id": 45721011,
                 "language": "Java",
-                "last_commit": "2026-08-24T02:15:20Z",
+                "last_commit": "2026-08-24T13:38:33Z",
                 "owner": "apache",
                 "repo": "skywalking",
                 "stars": 24929
@@ -670,7 +692,7 @@
                 "last_commit": "2026-08-23T20:34:15Z",
                 "owner": "jaegertracing",
                 "repo": "jaeger",
-                "stars": 23133
+                "stars": 23132
               }
             },
             {
@@ -707,7 +729,7 @@
                 "last_commit": "2026-08-24T09:06:41Z",
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28093
+                "stars": 28094
               }
             },
             {
@@ -722,7 +744,7 @@
                 "last_commit": "2026-02-16T14:07:07Z",
                 "owner": "tsenart",
                 "repo": "vegeta",
-                "stars": 25162
+                "stars": 25163
               }
             },
             {
@@ -767,7 +789,7 @@
                 "last_commit": "2026-08-23T16:38:51Z",
                 "owner": "ColinIanKing",
                 "repo": "stress-ng",
-                "stars": 2744
+                "stars": 2745
               }
             }
           ],
@@ -804,7 +826,7 @@
                 "last_commit": "2026-08-18T07:23:54Z",
                 "owner": "chaos-mesh",
                 "repo": "chaos-mesh",
-                "stars": 7853
+                "stars": 7855
               }
             },
             {
@@ -819,7 +841,7 @@
                 "last_commit": "2026-08-17T13:43:50Z",
                 "owner": "chaosblade-io",
                 "repo": "chaosblade",
-                "stars": 6498
+                "stars": 6499
               }
             },
             {
@@ -860,7 +882,7 @@
             "last_commit": "2026-03-20T01:52:19Z",
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 365695
+            "stars": 365728
           }
         },
         {
@@ -875,7 +897,7 @@
             "last_commit": "2026-08-19T09:58:40Z",
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 34977
+            "stars": 34979
           }
         },
         {
@@ -1018,7 +1040,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T10:35:00.584Z",
+    "last_updated": "2026-08-24T14:44:56.944Z",
     "original_repository": "phamquiluan/awesome-failure-diagnosis",
     "original_repository_id": 575257036,
     "original_repository_sha": "9faf3445feecd2c10c276ed82c788bb3cdc0d7df",
