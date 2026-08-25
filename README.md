@@ -75,7 +75,7 @@
 
 ## Others Paper
 
-* [2020 - Loghub: a large collection of system log datasets towards automated log analytics.](https://arxiv.org/abs/2008.06448) [\[Code\]](https://github.com/logpai/loghub) ⭐ 2,803 | 🐛 2 | 📅 2026-08-25
+* [2020 - Loghub: a large collection of system log datasets towards automated log analytics.](https://arxiv.org/abs/2008.06448) [\[Code\]](https://github.com/logpai/loghub) ⭐ 2,804 | 🐛 2 | 📅 2026-08-25
 * [ICSE'19 - Tools and Benchmarks for Automated Log Parsing.](https://ieeexplore.ieee.org/abstract/document/8804456) [\[Code\]](https://github.com/logpai/logparser) ⭐ 1,987 | 🐛 7 | 🌐 Python | 📅 2025-06-10
 * [WWW'25 - RCAEval: A Benchmark for Root Cause Analysis of Microservice Systems with Telemetry Data](https://arxiv.org/abs/2412.17015) [\[Code\]](https://github.com/phamquiluan/rcaeval/) ⭐ 207 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-08-25
 * [TNSM'2017 - Mining causality of network events in log data.](https://ieeexplore.ieee.org/abstract/document/8122062) [\[Code\]](https://github.com/cpflat/LogCausalAnalysis) ⭐ 30 | 🐛 1 | 🌐 Python | 📅 2019-07-01
@@ -132,7 +132,7 @@
 
 # Benchmark & Microservices Systems
 
-* [Online Boutique @ Google Cloud](https://github.com/GoogleCloudPlatform/microservices-demo) ⭐ 20,864 | 🐛 58 | 🌐 Go | 📅 2026-08-24
+* [Online Boutique @ Google Cloud](https://github.com/GoogleCloudPlatform/microservices-demo) ⭐ 20,863 | 🐛 58 | 🌐 Go | 📅 2026-08-24
 * [Sock Shop @ Weaveworks](https://github.com/microservices-demo/microservices-demo) ⚠️ Archived
 * [Robot Shop @ Instana](https://github.com/instana/robot-shop) ⭐ 1,013 | 🐛 28 | 🌐 JavaScript | 📅 2026-05-14
 * [Train Ticket @ Fudan University](https://github.com/FudanSELab/train-ticket) ⭐ 908 | 🐛 72 | 🌐 Java | 📅 2025-11-21 (40+ microservices) [How to deloy](docs/how-to-deploy-train-ticket.md)
@@ -145,7 +145,7 @@
 
 # Dataset
 
-* <https://github.com/logpai/loghub> ⭐ 2,803 | 🐛 2 | 📅 2026-08-25
+* <https://github.com/logpai/loghub> ⭐ 2,804 | 🐛 2 | 📅 2026-08-25
 * <https://github.com/alibaba/clusterdata> ⭐ 2,153 | 🐛 126 | 🌐 Jupyter Notebook | 📅 2026-06-03
 * <https://github.com/Azure/AzurePublicDataset> ⭐ 1,184 | 🐛 19 | 🌐 Jupyter Notebook | 📅 2026-06-03
 * <https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle> ⭐ 1,132 | 🐛 22 | 🌐 Python | 📅 2026-06-01
@@ -163,36 +163,36 @@
 * [cAdvisor (Container Advisor)](https://github.com/google/cadvisor) ⭐ 19,379 | 🐛 63 | 🌐 Go | 📅 2026-07-20: Analyzes resource usage and performance characteristics of running containers.
 * [Prometheus - Node Exporter](https://github.com/prometheus/node_exporter) ⭐ 13,719 | 🐛 311 | 🌐 Go | 📅 2026-08-21: Exporter for machine metrics.
 * [tsfresh](https://github.com/blue-yonder/tsfresh) ⭐ 9,296 | 🐛 71 | 🌐 Jupyter Notebook | 📅 2026-07-06: Automatic extraction of relevant features from time series.
-* [Prometheus - Blackbox prober exporter](https://github.com/prometheus/blackbox_exporter) ⭐ 5,841 | 🐛 168 | 🌐 Go | 📅 2026-08-24: Allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP, ICMP and gRPC.
+* [Prometheus - Blackbox prober exporter](https://github.com/prometheus/blackbox_exporter) ⭐ 5,841 | 🐛 169 | 🌐 Go | 📅 2026-08-24: Allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP, ICMP and gRPC.
 * <https://prometheus.io/docs>
 
 ## Logs
 
-* ELK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,860 | 🐛 5,941 | 🌐 Java | 📅 2026-08-25 + [Logstash](https://www.elastic.co/logstash/) + [Kibana](https://www.elastic.co/kibana/))
-* EFK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,860 | 🐛 5,941 | 🌐 Java | 📅 2026-08-25 + [Fluentd](https://www.fluentd.org/) + [Kibana](https://www.elastic.co/kibana/))
-* <https://github.com/grafana/loki> ⭐ 28,781 | 🐛 1,719 | 🌐 Go | 📅 2026-08-25
+* ELK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,861 | 🐛 5,927 | 🌐 Java | 📅 2026-08-25 + [Logstash](https://www.elastic.co/logstash/) + [Kibana](https://www.elastic.co/kibana/))
+* EFK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,861 | 🐛 5,927 | 🌐 Java | 📅 2026-08-25 + [Fluentd](https://www.fluentd.org/) + [Kibana](https://www.elastic.co/kibana/))
+* <https://github.com/grafana/loki> ⭐ 28,783 | 🐛 1,718 | 🌐 Go | 📅 2026-08-25
 * <https://github.com/logpai/loglizer> ⭐ 1,428 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2024-04-24
 
 ## Traces
 
-* <https://github.com/apache/skywalking> ⭐ 24,929 | 🐛 33 | 🌐 Java | 📅 2026-08-25
-* <https://github.com/jaegertracing/jaeger> ⭐ 23,139 | 🐛 568 | 🌐 Go | 📅 2026-08-24
+* <https://github.com/apache/skywalking> ⭐ 24,929 | 🐛 35 | 🌐 Java | 📅 2026-08-25
+* <https://github.com/jaegertracing/jaeger> ⭐ 23,141 | 🐛 568 | 🌐 Go | 📅 2026-08-24
 * <https://github.com/openzipkin/zipkin> ⭐ 17,453 | 🐛 175 | 🌐 Java | 📅 2026-08-06
 * [OpenTelemetry](https://opentelemetry.io/docs/concepts/signals/): supports metrics, logs, and traces.
 
 ## Load generators
 
 * [Locust](https://github.com/locustio/locust) ⭐ 28,097 | 🐛 3 | 🌐 Python | 📅 2026-08-24: a load testing tool for web applications. It is used to simulate a large number of users accessing a web application simultaneously, in order to test its performance and scalability.
-* [Vegeta](https://github.com/tsenart/vegeta) ⭐ 25,164 | 🐛 122 | 🌐 Go | 📅 2026-02-16: HTTP load testing tool and library. It's over 9000!
-* [Jmeter](https://github.com/apache/jmeter) ⭐ 9,518 | 🐛 971 | 🌐 Java | 📅 2026-08-14: a testing tool used to test the performance of web applications, databases, and APIs. It can simulate a heavy load on a server, group of servers, network, or object to test its strength or to analyze overall performance under different load types. It can also be used to test the performance of different protocols such as HTTP, FTP, TCP, JDBC, and JMS.
+* [Vegeta](https://github.com/tsenart/vegeta) ⭐ 25,165 | 🐛 122 | 🌐 Go | 📅 2026-02-16: HTTP load testing tool and library. It's over 9000!
+* [Jmeter](https://github.com/apache/jmeter) ⭐ 9,519 | 🐛 971 | 🌐 Java | 📅 2026-08-14: a testing tool used to test the performance of web applications, databases, and APIs. It can simulate a heavy load on a server, group of servers, network, or object to test its strength or to analyze overall performance under different load types. It can also be used to test the performance of different protocols such as HTTP, FTP, TCP, JDBC, and JMS.
 * [wrk2](https://github.com/giltene/wrk2) ⭐ 4,625 | 🐛 106 | 🌐 C | 📅 2024-03-03: HTTP workload generator.
-* [Stress-ng](https://github.com/ColinIanKing/stress-ng) ⭐ 2,746 | 🐛 2 | 🌐 C | 📅 2026-08-23: a tool that can be used to stress test various aspects of a Linux system, such as the CPU, memory, I/O, and network.
+* [Stress-ng](https://github.com/ColinIanKing/stress-ng) ⭐ 2,746 | 🐛 2 | 🌐 C | 📅 2026-08-25: a tool that can be used to stress test various aspects of a Linux system, such as the CPU, memory, I/O, and network.
 
 ## Chaos Engineering / Fault Injection
 
 * <https://github.com/Netflix/chaosmonkey> ⭐ 17,087 | 🐛 34 | 🌐 Go | 📅 2025-01-06
 * [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,855 | 🐛 551 | 🌐 Go | 📅 2026-08-18: an open-source chaos engineering platform for Kubernetes. It provides a set of APIs and CLI tools that allow users to define and orchestrate chaos experiments, such as network latency injection, pod failure, etc.
-* [ChaosBlade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,499 | 🐛 365 | 🌐 Python | 📅 2026-08-17: a performance testing and analysis tool for microservices. It allows users to simulate various types of failures and network conditions, such as network delays and packet loss, to test the resilience and stability of microservices in a controlled environment.
+* [ChaosBlade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,500 | 🐛 365 | 🌐 Python | 📅 2026-08-25: a performance testing and analysis tool for microservices. It allows users to simulate various types of failures and network conditions, such as network delays and packet loss, to test the resilience and stability of microservices in a controlled environment.
 * [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) ⭐ 2,019 | 🐛 3 | 🌐 Python | 📅 2026-08-09: a CLI tool which helps to run Chaos Engineering experiments.
 * [TC (Traffic Control)](https://man7.org/linux/man-pages/man8/tc.8.html): Delay and drop packets.
 * [tc-netem (Network Emulator)](https://man7.org/linux/man-pages/man8/tc-netem.8.html): an enhancement of the Linux traffic control facilities that allow one to add delay, packet loss, duplication and more other characteristics to packets outgoing from a selected network interface. NetEm is built using the existing Quality Of Service (QOS) and Differentiated Services (diffserv) facilities in the Linux kernel.
@@ -231,7 +231,7 @@
 
 # Others
 
-* <https://github.com/donnemartin/system-design-primer> ⭐ 365,866 | 🐛 612 | 🌐 Python | 📅 2026-03-20
+* <https://github.com/donnemartin/system-design-primer> ⭐ 365,899 | 🐛 612 | 🌐 Python | 📅 2026-03-20
 * <https://github.com/awesome-foss/awesome-sysadmin> ⭐ 34,984 | 🐛 0 | 📅 2026-08-19
 * <https://github.com/dastergon/awesome-sre> ⭐ 13,459 | 🐛 98 | 📅 2025-08-28
 * <https://github.com/upgundecha/howtheysre> ⭐ 9,802 | 🐛 11 | 🌐 JavaScript | 📅 2025-11-17
