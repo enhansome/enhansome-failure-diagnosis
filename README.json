@@ -396,7 +396,7 @@
                 "id": 60705895,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T15:55:46Z",
+                "last_commit": "2026-08-29T10:50:32Z",
                 "open_issues": 2,
                 "owner": "logpai",
                 "repo": "loghub",
@@ -569,7 +569,7 @@
             "open_issues": 59,
             "owner": "GoogleCloudPlatform",
             "repo": "microservices-demo",
-            "stars": 20876,
+            "stars": 20880,
             "topics": [
               "gcp",
               "gke",
@@ -736,7 +736,7 @@
             "id": 60705895,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-08-28T15:55:46Z",
+            "last_commit": "2026-08-29T10:50:32Z",
             "open_issues": 2,
             "owner": "logpai",
             "repo": "loghub",
@@ -769,7 +769,7 @@
             "open_issues": 126,
             "owner": "alibaba",
             "repo": "clusterdata",
-            "stars": 2161,
+            "stars": 2163,
             "topics": [
               "dataset"
             ]
@@ -873,7 +873,7 @@
                 "open_issues": 62,
                 "owner": "google",
                 "repo": "cadvisor",
-                "stars": 19385,
+                "stars": 19386,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
@@ -890,8 +890,8 @@
                 "id": 9524057,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T16:44:41Z",
-                "open_issues": 310,
+                "last_commit": "2026-08-29T12:54:42Z",
+                "open_issues": 304,
                 "owner": "prometheus",
                 "repo": "node_exporter",
                 "stars": 13739,
@@ -925,7 +925,7 @@
                 "open_issues": 74,
                 "owner": "blue-yonder",
                 "repo": "tsfresh",
-                "stars": 9301,
+                "stars": 9302,
                 "topics": [
                   "data-science",
                   "feature-extraction",
@@ -979,8 +979,8 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T04:36:17Z",
-                "open_issues": 5998,
+                "last_commit": "2026-08-29T13:28:40Z",
+                "open_issues": 6004,
                 "owner": "elastic",
                 "repo": "elasticsearch",
                 "stars": 77877,
@@ -1004,8 +1004,8 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T04:36:17Z",
-                "open_issues": 5998,
+                "last_commit": "2026-08-29T13:28:40Z",
+                "open_issues": 6004,
                 "owner": "elastic",
                 "repo": "elasticsearch",
                 "stars": 77877,
@@ -1029,11 +1029,11 @@
                 "id": 129717717,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T03:25:58Z",
-                "open_issues": 1729,
+                "last_commit": "2026-08-29T12:23:43Z",
+                "open_issues": 1727,
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28799,
+                "stars": 28804,
                 "topics": [
                   "cloudnative",
                   "grafana",
@@ -1095,7 +1095,7 @@
                 "open_issues": 40,
                 "owner": "apache",
                 "repo": "skywalking",
-                "stars": 24932,
+                "stars": 24934,
                 "topics": [
                   "apm",
                   "dapper",
@@ -1128,10 +1128,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-28T18:56:59Z",
-                "open_issues": 555,
+                "open_issues": 559,
                 "owner": "jaegertracing",
                 "repo": "jaeger",
-                "stars": 23156,
+                "stars": 23157,
                 "topics": [
                   "cncf",
                   "distributed-tracing",
@@ -1194,7 +1194,7 @@
                 "open_issues": 3,
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28112,
+                "stars": 28114,
                 "topics": [
                   "benchmarking",
                   "http",
@@ -1227,7 +1227,7 @@
                 "open_issues": 122,
                 "owner": "tsenart",
                 "repo": "vegeta",
-                "stars": 25170,
+                "stars": 25169,
                 "topics": [
                   "benchmarking",
                   "go",
@@ -1253,7 +1253,7 @@
                 "open_issues": 971,
                 "owner": "apache",
                 "repo": "jmeter",
-                "stars": 9521,
+                "stars": 9522,
                 "topics": [
                   "java",
                   "performance",
@@ -1295,11 +1295,11 @@
                 "id": 36930672,
                 "language": "C",
                 "license": "GPL-2.0",
-                "last_commit": "2026-08-28T15:09:41Z",
+                "last_commit": "2026-08-29T13:49:29Z",
                 "open_issues": 2,
                 "owner": "ColinIanKing",
                 "repo": "stress-ng",
-                "stars": 2749,
+                "stars": 2750,
                 "topics": [
                   "c",
                   "cpu",
@@ -1340,7 +1340,7 @@
                 "open_issues": 34,
                 "owner": "Netflix",
                 "repo": "chaosmonkey",
-                "stars": 17092,
+                "stars": 17093,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
@@ -1358,7 +1358,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T03:36:14Z",
-                "open_issues": 550,
+                "open_issues": 548,
                 "owner": "chaos-mesh",
                 "repo": "chaos-mesh",
                 "stars": 7859,
@@ -1396,7 +1396,7 @@
                 "open_issues": 365,
                 "owner": "chaosblade-io",
                 "repo": "chaosblade",
-                "stars": 6511,
+                "stars": 6512,
                 "topics": [
                   "alibaba",
                   "chaos-engineering",
@@ -1467,7 +1467,7 @@
             "open_issues": 613,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366605,
+            "stars": 366691,
             "topics": [
               "design",
               "design-patterns",
@@ -1498,11 +1498,11 @@
             "id": 28387406,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-08-27T15:09:19Z",
+            "last_commit": "2026-08-29T11:51:55Z",
             "open_issues": 0,
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 35013,
+            "stars": 35015,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1533,7 +1533,7 @@
             "open_issues": 101,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13465,
+            "stars": 13464,
             "topics": [
               "alerting",
               "availability",
@@ -1689,7 +1689,7 @@
             "open_issues": 2,
             "owner": "rguo12",
             "repo": "awesome-causality-algorithms",
-            "stars": 3279,
+            "stars": 3280,
             "topics": [
               "awesome",
               "baselines",
@@ -1819,7 +1819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T05:05:32.709Z",
+    "last_updated": "2026-08-29T14:55:32.010Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for failure diagnosis research.",
