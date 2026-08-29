@@ -47,7 +47,7 @@
 
 ## Root Cause Analysis / Fault Localization
 
-* [SIGCOMM'23 - Network-centric distributed tracing with deepflow: Troubleshooting your microservices in zero code](https://dl.acm.org/doi/abs/10.1145/3603269.3604823) [\[Code\]](https://github.com/deepflowio/deepflow) ⭐ 4,246 | 🐛 268 | 🌐 Go | 📅 2026-08-28
+* [SIGCOMM'23 - Network-centric distributed tracing with deepflow: Troubleshooting your microservices in zero code](https://dl.acm.org/doi/abs/10.1145/3603269.3604823) [\[Code\]](https://github.com/deepflowio/deepflow) ⭐ 4,246 | 🐛 268 | 🌐 Go | 📅 2026-08-29
 * [ICLR'25 - OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?](https://github.com/microsoft/OpenRCA) ⭐ 408 | 🐛 10 | 🌐 Python | 📅 2026-07-25
 * [WWW'25 - RCAEval: A Benchmark for Root Cause Analysis of Microservice Systems with Telemetry Data](https://arxiv.org/abs/2412.17015) [\[Code\]](https://github.com/phamquiluan/rcaeval/) ⭐ 209 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-08-25
 * [ASE'24 - Root Cause Analysis for Microservice System based on Causal Inference: How Far Are We?](https://conf.researchr.org/details/ase-2024/ase-2024-research/57/Root-Cause-Analysis-for-Microservice-System-based-on-Causal-Inference-How-Far-Are-We) [\[Code\]](https://github.com/phamquiluan/rcaeval/) ⭐ 209 | 🐛 4 | 🌐 Jupyter Notebook | 📅 2026-08-25
@@ -160,23 +160,23 @@
 
 ## Metrics
 
-* [cAdvisor (Container Advisor)](https://github.com/google/cadvisor) ⭐ 19,384 | 🐛 62 | 🌐 Go | 📅 2026-07-20: Analyzes resource usage and performance characteristics of running containers.
-* [Prometheus - Node Exporter](https://github.com/prometheus/node_exporter) ⭐ 13,737 | 🐛 310 | 🌐 Go | 📅 2026-08-28: Exporter for machine metrics.
+* [cAdvisor (Container Advisor)](https://github.com/google/cadvisor) ⭐ 19,385 | 🐛 62 | 🌐 Go | 📅 2026-07-20: Analyzes resource usage and performance characteristics of running containers.
+* [Prometheus - Node Exporter](https://github.com/prometheus/node_exporter) ⭐ 13,739 | 🐛 310 | 🌐 Go | 📅 2026-08-28: Exporter for machine metrics.
 * [tsfresh](https://github.com/blue-yonder/tsfresh) ⭐ 9,301 | 🐛 74 | 🌐 Jupyter Notebook | 📅 2026-07-06: Automatic extraction of relevant features from time series.
-* [Prometheus - Blackbox prober exporter](https://github.com/prometheus/blackbox_exporter) ⭐ 5,848 | 🐛 168 | 🌐 Go | 📅 2026-08-27: Allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP, ICMP and gRPC.
+* [Prometheus - Blackbox prober exporter](https://github.com/prometheus/blackbox_exporter) ⭐ 5,849 | 🐛 168 | 🌐 Go | 📅 2026-08-27: Allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP, ICMP and gRPC.
 * <https://prometheus.io/docs>
 
 ## Logs
 
-* ELK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,875 | 🐛 5,975 | 🌐 Java | 📅 2026-08-28 + [Logstash](https://www.elastic.co/logstash/) + [Kibana](https://www.elastic.co/kibana/))
-* EFK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,875 | 🐛 5,975 | 🌐 Java | 📅 2026-08-28 + [Fluentd](https://www.fluentd.org/) + [Kibana](https://www.elastic.co/kibana/))
-* <https://github.com/grafana/loki> ⭐ 28,798 | 🐛 1,727 | 🌐 Go | 📅 2026-08-28
+* ELK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,877 | 🐛 5,998 | 🌐 Java | 📅 2026-08-29 + [Logstash](https://www.elastic.co/logstash/) + [Kibana](https://www.elastic.co/kibana/))
+* EFK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 77,877 | 🐛 5,998 | 🌐 Java | 📅 2026-08-29 + [Fluentd](https://www.fluentd.org/) + [Kibana](https://www.elastic.co/kibana/))
+* <https://github.com/grafana/loki> ⭐ 28,799 | 🐛 1,729 | 🌐 Go | 📅 2026-08-29
 * <https://github.com/logpai/loglizer> ⭐ 1,428 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2024-04-24
 
 ## Traces
 
 * <https://github.com/apache/skywalking> ⭐ 24,932 | 🐛 40 | 🌐 Java | 📅 2026-08-26
-* <https://github.com/jaegertracing/jaeger> ⭐ 23,156 | 🐛 554 | 🌐 Go | 📅 2026-08-28
+* <https://github.com/jaegertracing/jaeger> ⭐ 23,156 | 🐛 555 | 🌐 Go | 📅 2026-08-28
 * <https://github.com/openzipkin/zipkin> ⭐ 17,455 | 🐛 175 | 🌐 Java | 📅 2026-08-06
 * [OpenTelemetry](https://opentelemetry.io/docs/concepts/signals/): supports metrics, logs, and traces.
 
@@ -184,7 +184,7 @@
 
 * [Locust](https://github.com/locustio/locust) ⭐ 28,112 | 🐛 3 | 🌐 Python | 📅 2026-08-26: a load testing tool for web applications. It is used to simulate a large number of users accessing a web application simultaneously, in order to test its performance and scalability.
 * [Vegeta](https://github.com/tsenart/vegeta) ⭐ 25,170 | 🐛 122 | 🌐 Go | 📅 2026-02-16: HTTP load testing tool and library. It's over 9000!
-* [Jmeter](https://github.com/apache/jmeter) ⭐ 9,519 | 🐛 971 | 🌐 Java | 📅 2026-08-27: a testing tool used to test the performance of web applications, databases, and APIs. It can simulate a heavy load on a server, group of servers, network, or object to test its strength or to analyze overall performance under different load types. It can also be used to test the performance of different protocols such as HTTP, FTP, TCP, JDBC, and JMS.
+* [Jmeter](https://github.com/apache/jmeter) ⭐ 9,521 | 🐛 971 | 🌐 Java | 📅 2026-08-27: a testing tool used to test the performance of web applications, databases, and APIs. It can simulate a heavy load on a server, group of servers, network, or object to test its strength or to analyze overall performance under different load types. It can also be used to test the performance of different protocols such as HTTP, FTP, TCP, JDBC, and JMS.
 * [wrk2](https://github.com/giltene/wrk2) ⭐ 4,627 | 🐛 106 | 🌐 C | 📅 2024-03-03: HTTP workload generator.
 * [Stress-ng](https://github.com/ColinIanKing/stress-ng) ⭐ 2,749 | 🐛 2 | 🌐 C | 📅 2026-08-28: a tool that can be used to stress test various aspects of a Linux system, such as the CPU, memory, I/O, and network.
 
@@ -231,8 +231,8 @@
 
 # Others
 
-* <https://github.com/donnemartin/system-design-primer> ⭐ 366,572 | 🐛 613 | 🌐 Python | 📅 2026-03-20
-* <https://github.com/awesome-foss/awesome-sysadmin> ⭐ 35,012 | 🐛 0 | 📅 2026-08-27
+* <https://github.com/donnemartin/system-design-primer> ⭐ 366,605 | 🐛 613 | 🌐 Python | 📅 2026-03-20
+* <https://github.com/awesome-foss/awesome-sysadmin> ⭐ 35,013 | 🐛 0 | 📅 2026-08-27
 * <https://github.com/dastergon/awesome-sre> ⭐ 13,465 | 🐛 101 | 📅 2025-08-28
 * <https://github.com/upgundecha/howtheysre> ⭐ 9,802 | 🐛 11 | 🌐 JavaScript | 📅 2025-11-17
 * <https://github.com/yzhao062/anomaly-detection-resources> ⭐ 9,370 | 🐛 14 | 🌐 Python | 📅 2026-03-02
@@ -246,4 +246,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._

@@ -12,12 +12,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Log-based Anomaly Detection with Deep Learning: How Far Are We? (ICSE 2022, Technical Track)",
+                "homepage": null,
                 "id": 375627935,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-09-27T04:10:55Z",
+                "open_issues": 20,
                 "owner": "LogIntelligence",
                 "repo": "LogADEmpirical",
-                "stars": 224
+                "stars": 224,
+                "topics": [
+                  "deep-learning",
+                  "log-analysis",
+                  "log-based-anomaly-detection"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -28,12 +37,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 598150455,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-07T13:48:31Z",
+                "open_issues": 9,
                 "owner": "BEbillionaireUSD",
                 "repo": "Eadro",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -44,12 +58,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 718904686,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-11-15T02:54:04Z",
+                "open_issues": 2,
                 "owner": "AIOps-Lab-NKU",
                 "repo": "AnoFusion",
-                "stars": 21
+                "stars": 21,
+                "topics": [
+                  "anomaly-detection",
+                  "mts"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -60,12 +82,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Source code for the paper \"UAC-AD: Unsupervised Adversarial Contrastive Learning for Anomaly Detection on Multi-source Data\"",
+                "homepage": null,
                 "id": 708733462,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-29T13:24:19Z",
+                "open_issues": 1,
                 "owner": "lhysgithub",
                 "repo": "UAC-AD",
-                "stars": 9
+                "stars": 9,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             }
@@ -83,12 +110,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "eBPF Observability - Distributed Tracing and Profiling",
+                "homepage": "https://deepflow.io",
                 "id": 448599559,
                 "language": "Go",
-                "last_commit": "2026-08-28T14:26:53Z",
+                "license": "Apache-2.0",
+                "last_commit": "2026-08-29T01:02:53Z",
+                "open_issues": 268,
                 "owner": "deepflowio",
                 "repo": "deepflow",
-                "stars": 4246
+                "stars": 4246,
+                "topics": [
+                  "apm",
+                  "gpu",
+                  "kubernetes",
+                  "llm",
+                  "opentelemetry",
+                  "wasm",
+                  "zero-code"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -99,12 +139,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[ICLR'25] OpenRCA: Can Large Language Models Locate the Root Cause of Software Failures?",
+                "homepage": "https://aka.ms/openrca",
                 "id": 880717690,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-25T14:33:11Z",
+                "open_issues": 10,
                 "owner": "microsoft",
                 "repo": "OpenRCA",
-                "stars": 408
+                "stars": 408,
+                "topics": [
+                  "benchmark",
+                  "large-language-models",
+                  "llm",
+                  "llm-agent",
+                  "rca",
+                  "root-cause-analysis",
+                  "software-engineering"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -115,12 +168,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[FSE'26, WWW'25, ASE'24] RCAEval: A Benchmark for Root Cause Analysis.",
+                "homepage": "https://dl.acm.org/doi/10.1145/3701716.3715290",
                 "id": 840137303,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-25T04:25:26Z",
+                "open_issues": 4,
                 "owner": "phamquiluan",
                 "repo": "RCAEval",
-                "stars": 209
+                "stars": 209,
+                "topics": [
+                  "aiops",
+                  "benchmark",
+                  "itbench",
+                  "microservices",
+                  "root-cause-analysis",
+                  "site-reliability-engineering",
+                  "software-engineering",
+                  "telemetry-data"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -131,12 +198,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[FSE'26, WWW'25, ASE'24] RCAEval: A Benchmark for Root Cause Analysis.",
+                "homepage": "https://dl.acm.org/doi/10.1145/3701716.3715290",
                 "id": 840137303,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-25T04:25:26Z",
+                "open_issues": 4,
                 "owner": "phamquiluan",
                 "repo": "RCAEval",
-                "stars": 209
+                "stars": 209,
+                "topics": [
+                  "aiops",
+                  "benchmark",
+                  "itbench",
+                  "microservices",
+                  "root-cause-analysis",
+                  "site-reliability-engineering",
+                  "software-engineering",
+                  "telemetry-data"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -147,12 +228,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Causal Inference-based Root Cause Analysis",
+                "homepage": null,
                 "id": 470004838,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2023-02-13T04:32:10Z",
+                "open_issues": 6,
                 "owner": "NetManAIOps",
                 "repo": "CIRCA",
-                "stars": 99
+                "stars": 99,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -163,12 +249,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code and datasets for FSE'22 paper \"Actionable and Interpretable Fault Localization for Recurring Failures in Online Service Systems\"",
+                "homepage": null,
                 "id": 471262267,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2022-10-24T05:57:13Z",
+                "open_issues": 6,
                 "owner": "NetManAIOps",
                 "repo": "DejaVu",
-                "stars": 84
+                "stars": 84,
+                "topics": [
+                  "diagnosis",
+                  "failure"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -179,12 +273,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The implementation of multimodal observability data root cause analysis approach Nezha in FSE 2023",
+                "homepage": null,
                 "id": 674544895,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2025-05-20T08:03:06Z",
+                "open_issues": 7,
                 "owner": "IntelligentDDS",
                 "repo": "Nezha",
-                "stars": 76
+                "stars": 76,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -195,12 +294,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Root Cause Discovery: Root Cause Analysis of Failures in Microservices through Causal Discovery",
+                "homepage": null,
                 "id": 578758687,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2024-04-26T16:26:09Z",
+                "open_issues": 2,
                 "owner": "azamikram",
                 "repo": "rcd",
-                "stars": 71
+                "stars": 71,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -211,12 +315,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[FSE'24 - 🏆 Best Artifact Award] BARO: Robust Root Cause Analysis for Time Series Data.",
+                "homepage": "https://doi.org/10.1145/3660805",
                 "id": 787200147,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-03-10T04:05:17Z",
+                "open_issues": 0,
                 "owner": "phamquiluan",
                 "repo": "baro",
-                "stars": 67
+                "stars": 67,
+                "topics": [
+                  "aiops",
+                  "anomaly-detection",
+                  "microservices",
+                  "root-cause-analysis",
+                  "site-reliability-engineering"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -227,12 +342,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 598150455,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-02-07T13:48:31Z",
+                "open_issues": 9,
                 "owner": "BEbillionaireUSD",
                 "repo": "Eadro",
-                "stars": 64
+                "stars": 64,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -243,12 +363,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": null,
+                "homepage": null,
                 "id": 621246130,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2026-06-08T11:45:07Z",
+                "open_issues": 1,
                 "owner": "zhouruixingzhu",
                 "repo": "HeMiRCA",
-                "stars": 3
+                "stars": 3,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             }
@@ -266,12 +391,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A large collection of system log datasets for AI-driven log analytics [ISSRE'23]",
+                "homepage": null,
                 "id": 60705895,
                 "language": null,
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T15:55:46Z",
+                "open_issues": 2,
                 "owner": "logpai",
                 "repo": "loghub",
-                "stars": 2811
+                "stars": 2811,
+                "topics": [
+                  "anomaly-detection",
+                  "datasets",
+                  "log-analysis",
+                  "log-intelligence",
+                  "log-parsing",
+                  "logs",
+                  "unstructured-logs"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -282,12 +420,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A machine learning toolkit for log parsing [ICSE'19, DSN'16]",
+                "homepage": null,
                 "id": 40241789,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-06-10T23:50:49Z",
+                "open_issues": 7,
                 "owner": "logpai",
                 "repo": "logparser",
-                "stars": 1987
+                "stars": 1987,
+                "topics": [
+                  "anomaly-detection",
+                  "benchmark",
+                  "log",
+                  "log-analysis",
+                  "log-mining",
+                  "log-parser",
+                  "log-parsing"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -298,12 +449,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[FSE'26, WWW'25, ASE'24] RCAEval: A Benchmark for Root Cause Analysis.",
+                "homepage": "https://dl.acm.org/doi/10.1145/3701716.3715290",
                 "id": 840137303,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-08-25T04:25:26Z",
+                "open_issues": 4,
                 "owner": "phamquiluan",
                 "repo": "RCAEval",
-                "stars": 209
+                "stars": 209,
+                "topics": [
+                  "aiops",
+                  "benchmark",
+                  "itbench",
+                  "microservices",
+                  "root-cause-analysis",
+                  "site-reliability-engineering",
+                  "software-engineering",
+                  "telemetry-data"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -314,12 +479,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Analyze system log messages constructing DAG with PC algorithm",
+                "homepage": null,
                 "id": 40106408,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2019-07-01T08:31:02Z",
+                "open_issues": 1,
                 "owner": "cpflat",
                 "repo": "LogCausalAnalysis",
-                "stars": 30
+                "stars": 30,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -330,12 +500,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Going through the Life Cycle of Faults in Clouds: Guidelines on Fault Handling (ISSRE'22)",
+                "homepage": null,
                 "id": 524623402,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2022-10-13T23:45:27Z",
+                "open_issues": 0,
                 "owner": "IntelligentDDS",
                 "repo": "Post-mortems-Analysis",
-                "stars": 10
+                "stars": 10,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             }
@@ -353,12 +528,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of DevOps datasets that aim to facilitate research and development to support DevOps intelligence.",
+                "homepage": null,
                 "id": 375047338,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-09-15T17:58:41Z",
+                "open_issues": 0,
                 "owner": "mooselab",
                 "repo": "DevOpsDataCollection",
-                "stars": 26
+                "stars": 26,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             }
@@ -380,12 +560,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample cloud-first application with 10 microservices showcasing Kubernetes, Istio, and gRPC.",
+            "homepage": "https://cymbal-shops.retail.cymbal.dev",
             "id": 143460965,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-24T20:46:05Z",
+            "open_issues": 59,
             "owner": "GoogleCloudPlatform",
             "repo": "microservices-demo",
-            "stars": 20876
+            "stars": 20876,
+            "topics": [
+              "gcp",
+              "gke",
+              "google-cloud",
+              "grpc",
+              "istio",
+              "kubernetes",
+              "kustomize",
+              "sample-application",
+              "samples",
+              "skaffold",
+              "terraform"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -396,12 +593,29 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Deployment scripts & config for Sock Shop",
+            "homepage": "https://microservices-demo.github.io/",
             "id": 59492847,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-12-05T14:11:58Z",
+            "open_issues": 112,
             "owner": "microservices-demo",
             "repo": "microservices-demo",
-            "stars": 3783
+            "stars": 3783,
+            "topics": [
+              "docker",
+              "ecs",
+              "golang",
+              "java",
+              "kubernetes",
+              "mesos",
+              "microservice",
+              "microservices-demo",
+              "nodejs",
+              "nomad",
+              "spring-boot"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -412,12 +626,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Sample microservices application for playing with",
+            "homepage": "http://instana.com/",
             "id": 116983346,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-14T12:36:25Z",
+            "open_issues": 28,
             "owner": "instana",
             "repo": "robot-shop",
-            "stars": 1014
+            "stars": 1014,
+            "topics": [
+              "distributed-tracing",
+              "microservice-example",
+              "microservices",
+              "performance-monitoring",
+              "robot"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -428,12 +653,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Train Ticket - A Benchmark Microservice System",
+            "homepage": "http://139.196.152.44:32677",
             "id": 116011653,
             "language": "Java",
+            "license": "Apache-2.0",
             "last_commit": "2025-11-21T04:33:17Z",
+            "open_issues": 73,
             "owner": "FudanSELab",
             "repo": "train-ticket",
-            "stars": 908
+            "stars": 908,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -444,12 +674,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[FSE'26, WWW'25, ASE'24] RCAEval: A Benchmark for Root Cause Analysis.",
+            "homepage": "https://dl.acm.org/doi/10.1145/3701716.3715290",
             "id": 840137303,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-08-25T04:25:26Z",
+            "open_issues": 4,
             "owner": "phamquiluan",
             "repo": "RCAEval",
-            "stars": 209
+            "stars": 209,
+            "topics": [
+              "aiops",
+              "benchmark",
+              "itbench",
+              "microservices",
+              "root-cause-analysis",
+              "site-reliability-engineering",
+              "software-engineering",
+              "telemetry-data"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -460,12 +704,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DEPRECATED: use the cfm/infra/sock-shop.yaml file",
+            "homepage": null,
             "id": 590746982,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2023-11-20T01:05:20Z",
+            "open_issues": 0,
             "owner": "phamquiluan",
             "repo": "sock-shop",
-            "stars": 2
+            "stars": 2,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         }
@@ -482,12 +731,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A large collection of system log datasets for AI-driven log analytics [ISSRE'23]",
+            "homepage": null,
             "id": 60705895,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T15:55:46Z",
+            "open_issues": 2,
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2811
+            "stars": 2811,
+            "topics": [
+              "anomaly-detection",
+              "datasets",
+              "log-analysis",
+              "log-intelligence",
+              "log-parsing",
+              "logs",
+              "unstructured-logs"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -498,12 +760,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "cluster data collected from production clusters in Alibaba for cluster management research",
+            "homepage": null,
             "id": 102428537,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2026-06-03T02:11:46Z",
+            "open_issues": 126,
             "owner": "alibaba",
             "repo": "clusterdata",
-            "stars": 2161
+            "stars": 2161,
+            "topics": [
+              "dataset"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -514,12 +783,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Microsoft Azure Traces",
+            "homepage": null,
             "id": 100736092,
             "language": "Jupyter Notebook",
+            "license": "CC-BY-4.0",
             "last_commit": "2026-06-03T12:53:37Z",
+            "open_issues": 19,
             "owner": "Azure",
             "repo": "AzurePublicDataset",
-            "stars": 1185
+            "stars": 1185,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -530,12 +804,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Trustworthy AI related projects",
+            "homepage": null,
             "id": 248501097,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-01T01:40:51Z",
+            "open_issues": 22,
             "owner": "huawei-noah",
             "repo": "trustworthyAI",
-            "stars": 1133
+            "stars": 1133,
+            "topics": [
+              "causal-discovery",
+              "causal-inference",
+              "causality",
+              "graph",
+              "independence-tests",
+              "machine-learning",
+              "python",
+              "statistics",
+              "structure"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -546,12 +835,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation and datasets for the paper: 'An Influence-based Approach for Root Cause Alarm Discovery in Telecom Network'.",
+            "homepage": null,
             "id": 302568613,
             "language": null,
+            "license": null,
             "last_commit": "2022-07-07T08:40:03Z",
+            "open_issues": 4,
             "owner": "shaido987",
             "repo": "alarm-rca",
-            "stars": 18
+            "stars": 18,
+            "topics": []
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         }
@@ -570,12 +864,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Analyzes resource usage and performance characteristics of running containers.",
+                "homepage": null,
                 "id": 20653934,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2026-07-20T21:23:51Z",
+                "open_issues": 62,
                 "owner": "google",
                 "repo": "cadvisor",
-                "stars": 19384
+                "stars": 19385,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -586,12 +885,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Exporter for machine metrics",
+                "homepage": "https://prometheus.io/",
                 "id": 9524057,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T16:44:41Z",
+                "open_issues": 310,
                 "owner": "prometheus",
                 "repo": "node_exporter",
-                "stars": 13737
+                "stars": 13739,
+                "topics": [
+                  "host-metrics",
+                  "machine-metrics",
+                  "metrics",
+                  "node-metrics",
+                  "procfs",
+                  "prometheus",
+                  "prometheus-exporter",
+                  "system-information",
+                  "system-metrics"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -602,12 +916,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Automatic extraction of relevant features from time series:",
+                "homepage": "http://tsfresh.readthedocs.io",
                 "id": 71996613,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2026-07-06T01:28:19Z",
+                "open_issues": 74,
                 "owner": "blue-yonder",
                 "repo": "tsfresh",
-                "stars": 9301
+                "stars": 9301,
+                "topics": [
+                  "data-science",
+                  "feature-extraction",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -618,12 +941,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Blackbox prober exporter",
+                "homepage": "https://prometheus.io",
                 "id": 41964498,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T07:46:31Z",
+                "open_issues": 168,
                 "owner": "prometheus",
                 "repo": "blackbox_exporter",
-                "stars": 5848
+                "stars": 5849,
+                "topics": [
+                  "blackbox-exporter",
+                  "icmp",
+                  "prometheus",
+                  "prometheus-exporter"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             }
@@ -641,12 +974,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and Open Source, Distributed, RESTful Search Engine",
+                "homepage": "https://www.elastic.co/products/elasticsearch",
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-28T20:39:17Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:36:17Z",
+                "open_issues": 5998,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77875
+                "stars": 77877,
+                "topics": [
+                  "elasticsearch",
+                  "java",
+                  "search-engine"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -657,12 +999,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Free and Open Source, Distributed, RESTful Search Engine",
+                "homepage": "https://www.elastic.co/products/elasticsearch",
                 "id": 507775,
                 "language": "Java",
-                "last_commit": "2026-08-28T20:39:17Z",
+                "license": "NOASSERTION",
+                "last_commit": "2026-08-29T04:36:17Z",
+                "open_issues": 5998,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77875
+                "stars": 77877,
+                "topics": [
+                  "elasticsearch",
+                  "java",
+                  "search-engine"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -673,12 +1024,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Like Prometheus, but for logs.",
+                "homepage": "https://grafana.com/oss/loki",
                 "id": 129717717,
                 "language": "Go",
-                "last_commit": "2026-08-28T19:31:41Z",
+                "license": "AGPL-3.0",
+                "last_commit": "2026-08-29T03:25:58Z",
+                "open_issues": 1729,
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28798
+                "stars": 28799,
+                "topics": [
+                  "cloudnative",
+                  "grafana",
+                  "hacktoberfest",
+                  "logging",
+                  "loki",
+                  "prometheus"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -689,12 +1052,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A machine learning toolkit for log-based anomaly detection [ISSRE'16]",
+                "homepage": null,
                 "id": 58811148,
                 "language": "Jupyter Notebook",
+                "license": "MIT",
                 "last_commit": "2024-04-24T05:32:52Z",
+                "open_issues": 32,
                 "owner": "logpai",
                 "repo": "loglizer",
-                "stars": 1428
+                "stars": 1428,
+                "topics": [
+                  "aiops",
+                  "anomaly-detection",
+                  "failure-diagnosis",
+                  "log-analysis",
+                  "machine-learning"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             }
@@ -712,12 +1086,32 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "APM, Application Performance Monitoring System",
+                "homepage": "https://skywalking.apache.org/",
                 "id": 45721011,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-26T06:25:56Z",
+                "open_issues": 40,
                 "owner": "apache",
                 "repo": "skywalking",
-                "stars": 24932
+                "stars": 24932,
+                "topics": [
+                  "apm",
+                  "dapper",
+                  "distributed-tracing",
+                  "ebpf",
+                  "logging",
+                  "metrics",
+                  "observability",
+                  "open-telemetry",
+                  "prometheus",
+                  "service-mesh",
+                  "skywalking",
+                  "telegraf",
+                  "web-performance",
+                  "zabbix"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -728,12 +1122,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CNCF Jaeger, a Distributed Tracing Platform",
+                "homepage": "https://www.jaegertracing.io/",
                 "id": 56342508,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T18:56:59Z",
+                "open_issues": 555,
                 "owner": "jaegertracing",
                 "repo": "jaeger",
-                "stars": 23156
+                "stars": 23156,
+                "topics": [
+                  "cncf",
+                  "distributed-tracing",
+                  "hacktoberfest",
+                  "jaeger",
+                  "observability",
+                  "opentelemetry",
+                  "tracing"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -744,12 +1151,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Zipkin is a distributed tracing system",
+                "homepage": "https://zipkin.io/",
                 "id": 4576305,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-06T04:10:29Z",
+                "open_issues": 175,
                 "owner": "openzipkin",
                 "repo": "zipkin",
-                "stars": 17455
+                "stars": 17455,
+                "topics": [
+                  "distributed-tracing",
+                  "observability",
+                  "openzipkin",
+                  "tracing",
+                  "zipkin"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             }
@@ -767,12 +1185,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Write scalable load tests in plain Python 🚗💨",
+                "homepage": "https://locust.cloud",
                 "id": 1377867,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:46:29Z",
+                "open_issues": 3,
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28112
+                "stars": 28112,
+                "topics": [
+                  "benchmarking",
+                  "http",
+                  "load-generator",
+                  "load-test",
+                  "load-testing",
+                  "load-tests",
+                  "locust",
+                  "performance",
+                  "performance-testing",
+                  "python",
+                  "socketio"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -783,12 +1218,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "HTTP load testing tool and library. It's over 9000!",
+                "homepage": "http://godoc.org/github.com/tsenart/vegeta/lib",
                 "id": 12080551,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-02-16T14:07:07Z",
+                "open_issues": 122,
                 "owner": "tsenart",
                 "repo": "vegeta",
-                "stars": 25170
+                "stars": 25170,
+                "topics": [
+                  "benchmarking",
+                  "go",
+                  "http",
+                  "load-testing"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -799,12 +1244,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Apache JMeter open-source load testing tool for analyzing and measuring the performance of a variety of services",
+                "homepage": "https://jmeter.apache.org/",
                 "id": 688352,
                 "language": "Java",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T11:30:17Z",
+                "open_issues": 971,
                 "owner": "apache",
                 "repo": "jmeter",
-                "stars": 9519
+                "stars": 9521,
+                "topics": [
+                  "java",
+                  "performance",
+                  "test"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -815,12 +1269,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A constant throughput, correct latency recording variant of wrk",
+                "homepage": null,
                 "id": 26362798,
                 "language": "C",
+                "license": "Apache-2.0",
                 "last_commit": "2024-03-03T13:40:01Z",
+                "open_issues": 106,
                 "owner": "giltene",
                 "repo": "wrk2",
-                "stars": 4627
+                "stars": 4627,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -831,12 +1290,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "This is the stress-ng upstream project git repository.  stress-ng will stress test a computer system in various selectable ways. It was designed to exercise various physical subsystems of a computer as well as the various operating system kernel interfaces. ",
+                "homepage": "https://github.com/ColinIanKing/stress-ng",
                 "id": 36930672,
                 "language": "C",
+                "license": "GPL-2.0",
                 "last_commit": "2026-08-28T15:09:41Z",
+                "open_issues": 2,
                 "owner": "ColinIanKing",
                 "repo": "stress-ng",
-                "stars": 2749
+                "stars": 2749,
+                "topics": [
+                  "c",
+                  "cpu",
+                  "disk",
+                  "freebsd",
+                  "kernel",
+                  "linux",
+                  "memory",
+                  "openbsd",
+                  "overheating",
+                  "posix",
+                  "stress-testing",
+                  "x86"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             }
@@ -854,12 +1331,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chaos Monkey is a resiliency tool that helps applications tolerate random instance failures.",
+                "homepage": null,
                 "id": 71297170,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2025-01-06T08:37:10Z",
+                "open_issues": 34,
                 "owner": "Netflix",
                 "repo": "chaosmonkey",
-                "stars": 17092
+                "stars": 17092,
+                "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -870,12 +1352,31 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Chaos Engineering Platform for Kubernetes.",
+                "homepage": "https://chaos-mesh.org",
                 "id": 206213815,
                 "language": "Go",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T03:36:14Z",
+                "open_issues": 550,
                 "owner": "chaos-mesh",
                 "repo": "chaos-mesh",
-                "stars": 7859
+                "stars": 7859,
+                "topics": [
+                  "chaos",
+                  "chaos-engineering",
+                  "chaos-experiments",
+                  "chaos-mesh",
+                  "chaos-testing",
+                  "cloud-native",
+                  "cncf",
+                  "fault-injection",
+                  "golang",
+                  "kubernetes",
+                  "microservices",
+                  "operator",
+                  "site-reliability-engineering"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -886,12 +1387,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）",
+                "homepage": "https://chaosblade.io",
                 "id": 175192867,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-25T13:19:07Z",
+                "open_issues": 365,
                 "owner": "chaosblade-io",
                 "repo": "chaosblade",
-                "stars": 6511
+                "stars": 6511,
+                "topics": [
+                  "alibaba",
+                  "chaos-engineering",
+                  "chaos-testing",
+                  "fault",
+                  "fault-injection",
+                  "kubernetes",
+                  "microservice",
+                  "site-reliability-engineering"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -902,12 +1417,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Chaos Engineering Toolkit & Orchestration for Developers",
+                "homepage": "https://chaostoolkit.org",
                 "id": 104656275,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-09T19:56:48Z",
+                "open_issues": 3,
                 "owner": "chaostoolkit",
                 "repo": "chaostoolkit",
-                "stars": 2020
+                "stars": 2020,
+                "topics": [
+                  "automation",
+                  "chaos-engineering",
+                  "chaostoolkit",
+                  "devops-tools",
+                  "reliability",
+                  "reliability-engineering",
+                  "resiliency",
+                  "sre"
+                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             }
@@ -929,12 +1458,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+            "homepage": null,
             "id": 83222441,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-20T01:52:19Z",
+            "open_issues": 613,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366572
+            "stars": 366605,
+            "topics": [
+              "design",
+              "design-patterns",
+              "design-system",
+              "development",
+              "interview",
+              "interview-practice",
+              "interview-questions",
+              "programming",
+              "python",
+              "system",
+              "web",
+              "web-application",
+              "webapp"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -945,12 +1493,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of amazingly awesome open-source sysadmin resources.",
+            "homepage": "https://sysadmin.awesome-selfhosted.net",
             "id": 28387406,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T15:09:19Z",
+            "open_issues": 0,
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 35012
+            "stars": 35013,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "devops",
+              "list",
+              "ops",
+              "self-hosted",
+              "software",
+              "sre",
+              "sysadmin"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -961,12 +1524,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Site Reliability and Production Engineering resources.",
+            "homepage": "https://sre.xyz",
             "id": 56103979,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2025-08-28T14:43:14Z",
+            "open_issues": 101,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13465
+            "stars": 13465,
+            "topics": [
+              "alerting",
+              "availability",
+              "awesome",
+              "awesome-list",
+              "capacity-planning",
+              "devops",
+              "incident-response",
+              "list",
+              "monitoring",
+              "on-call",
+              "post-mortem",
+              "postmortem",
+              "production",
+              "reliability",
+              "reliability-engineering",
+              "scalability",
+              "service-level-agreement",
+              "site-reliability",
+              "site-reliability-engineering",
+              "sre"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -977,12 +1566,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated collection of publicly available resources on how technology and tech-savvy organizations around the world practice Site Reliability Engineering (SRE)",
+            "homepage": null,
             "id": 338818430,
             "language": "JavaScript",
+            "license": "CC0-1.0",
             "last_commit": "2025-11-17T18:57:19Z",
+            "open_issues": 11,
             "owner": "upgundecha",
             "repo": "howtheysre",
-            "stars": 9802
+            "stars": 9802,
+            "topics": [
+              "alerting",
+              "chaos-engineering",
+              "dev-ops",
+              "devops",
+              "hacktoberfest",
+              "hacktoberfest-accepted",
+              "incident-management",
+              "incident-response",
+              "infrastructure",
+              "ml-ops",
+              "monitoring",
+              "observability",
+              "on-call",
+              "post-mortem",
+              "reliability",
+              "security",
+              "site-reliability-engineering",
+              "software-engineering",
+              "sre",
+              "sre-culture"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -993,12 +1608,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Anomaly detection related books, papers, videos, and toolboxes. Last update late 2025 for LLM and VLM works!",
+            "homepage": null,
             "id": 133717148,
             "language": "Python",
+            "license": "AGPL-3.0",
             "last_commit": "2026-03-02T04:42:20Z",
+            "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9370
+            "stars": 9370,
+            "topics": [
+              "anomaly-detection",
+              "awesome",
+              "awesome-list",
+              "data-mining",
+              "fraud",
+              "fraud-detection",
+              "graph-neural-networks",
+              "large-language-models",
+              "llm",
+              "machine-learning",
+              "outlier",
+              "outlier-detection",
+              "outlier-ensembles",
+              "time-series-analysis",
+              "unsupervised-learning",
+              "vlm",
+              "vlms"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -1009,12 +1647,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of Chaos Engineering resources.",
+            "homepage": null,
             "id": 98446777,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2023-12-28T19:30:06Z",
+            "open_issues": 72,
             "owner": "dastergon",
             "repo": "awesome-chaos-engineering",
-            "stars": 6642
+            "stars": 6642,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "chaos",
+              "chaos-community",
+              "chaos-engineering",
+              "chaos-monkey",
+              "chaos-testing",
+              "netflix-chaos-monkey",
+              "resilience",
+              "simian-army",
+              "site-reliability-engineering"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -1025,12 +1680,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An index of algorithms for learning causality with data",
+            "homepage": null,
             "id": 149516975,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-01-22T11:00:42Z",
+            "open_issues": 2,
             "owner": "rguo12",
             "repo": "awesome-causality-algorithms",
-            "stars": 3279
+            "stars": 3279,
+            "topics": [
+              "awesome",
+              "baselines",
+              "causal-inference",
+              "causality",
+              "causality-algorithms",
+              "causality-analysis",
+              "learning-to-rank",
+              "multilabel-classification",
+              "recommender-system",
+              "unconfoundedness-assumption"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -1041,12 +1712,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome anomaly detection resources",
+            "homepage": null,
             "id": 146555808,
             "language": null,
+            "license": null,
             "last_commit": "2022-09-20T09:33:40Z",
+            "open_issues": 9,
             "owner": "hoya012",
             "repo": "awesome-anomaly-detection",
-            "stars": 2901
+            "stars": 2901,
+            "topics": [
+              "anomaly",
+              "anomaly-detection",
+              "anomalydetection",
+              "awesome",
+              "awesome-anomaly-detection",
+              "awesomeanomalydetection",
+              "deep-learning",
+              "machine-learning",
+              "machinelearning"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -1057,12 +1743,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of slides, repositories, papers about AIOps",
+            "homepage": null,
             "id": 143674620,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-03-17T03:17:07Z",
+            "open_issues": 0,
             "owner": "chenryn",
             "repo": "aiops-handbook",
-            "stars": 1570
+            "stars": 1570,
+            "topics": [
+              "aiops",
+              "anomalydetection",
+              "kpi"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -1073,12 +1768,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of awesome research on log analysis, anomaly detection, fault localization, and AIOps",
+            "homepage": null,
             "id": 124501318,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-12-31T14:10:09Z",
+            "open_issues": 3,
             "owner": "logpai",
             "repo": "awesome-log-analysis",
-            "stars": 803
+            "stars": 803,
+            "topics": [
+              "aiops",
+              "anamoly-detection",
+              "bug-finding",
+              "failure-diagnosis",
+              "fault-localization",
+              "log-analysis"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         },
@@ -1089,12 +1796,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Awesome observability page",
+            "homepage": null,
             "id": 200418696,
             "language": "Makefile",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-15T20:44:38Z",
+            "open_issues": 9,
             "owner": "adriannovegil",
             "repo": "awesome-observability",
-            "stars": 657
+            "stars": 657,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "observability"
+            ]
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
         }
@@ -1103,15 +1819,34 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T21:05:08.856Z",
+    "last_updated": "2026-08-29T05:05:32.709Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Awesome resources for failure diagnosis research.",
+      "homepage": null,
       "id": 575257036,
       "language": null,
+      "license": null,
       "last_commit": "2026-04-26T23:54:25Z",
+      "open_issues": 1,
       "owner": "phamquiluan",
       "repo": "awesome-failure-diagnosis",
-      "stars": 65
+      "stars": 65,
+      "topics": [
+        "aiops",
+        "anomaly-detection",
+        "awesome-list",
+        "cloud-ops",
+        "cloudops",
+        "failure-diagnosis",
+        "fault-detection",
+        "fault-diagnosis",
+        "incident-management",
+        "observability",
+        "reliability-engineering",
+        "root-cause-analysis",
+        "sre"
+      ]
     },
     "original_repository_sha": "9faf3445feecd2c10c276ed82c788bb3cdc0d7df",
     "enhanced_repository": "enhansome/enhansome-failure-diagnosis",
