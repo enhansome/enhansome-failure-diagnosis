@@ -115,11 +115,11 @@
                 "id": 448599559,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T01:02:53Z",
+                "last_commit": "2026-08-30T13:14:16Z",
                 "open_issues": 268,
                 "owner": "deepflowio",
                 "repo": "deepflow",
-                "stars": 4246,
+                "stars": 4249,
                 "topics": [
                   "apm",
                   "gpu",
@@ -148,7 +148,7 @@
                 "open_issues": 10,
                 "owner": "microsoft",
                 "repo": "OpenRCA",
-                "stars": 408,
+                "stars": 409,
                 "topics": [
                   "benchmark",
                   "large-language-models",
@@ -174,10 +174,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-08-25T04:25:26Z",
-                "open_issues": 4,
+                "open_issues": 6,
                 "owner": "phamquiluan",
                 "repo": "RCAEval",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "aiops",
                   "benchmark",
@@ -204,10 +204,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-08-25T04:25:26Z",
-                "open_issues": 4,
+                "open_issues": 6,
                 "owner": "phamquiluan",
                 "repo": "RCAEval",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "aiops",
                   "benchmark",
@@ -282,7 +282,7 @@
                 "open_issues": 7,
                 "owner": "IntelligentDDS",
                 "repo": "Nezha",
-                "stars": 76,
+                "stars": 77,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
@@ -396,11 +396,11 @@
                 "id": 60705895,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T10:50:32Z",
+                "last_commit": "2026-08-30T09:46:38Z",
                 "open_issues": 2,
                 "owner": "logpai",
                 "repo": "loghub",
-                "stars": 2811,
+                "stars": 2812,
                 "topics": [
                   "anomaly-detection",
                   "datasets",
@@ -455,10 +455,10 @@
                 "language": "Jupyter Notebook",
                 "license": "MIT",
                 "last_commit": "2026-08-25T04:25:26Z",
-                "open_issues": 4,
+                "open_issues": 6,
                 "owner": "phamquiluan",
                 "repo": "RCAEval",
-                "stars": 209,
+                "stars": 210,
                 "topics": [
                   "aiops",
                   "benchmark",
@@ -569,7 +569,7 @@
             "open_issues": 59,
             "owner": "GoogleCloudPlatform",
             "repo": "microservices-demo",
-            "stars": 20880,
+            "stars": 20882,
             "topics": [
               "gcp",
               "gke",
@@ -680,10 +680,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-08-25T04:25:26Z",
-            "open_issues": 4,
+            "open_issues": 6,
             "owner": "phamquiluan",
             "repo": "RCAEval",
-            "stars": 209,
+            "stars": 210,
             "topics": [
               "aiops",
               "benchmark",
@@ -736,11 +736,11 @@
             "id": 60705895,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T10:50:32Z",
+            "last_commit": "2026-08-30T09:46:38Z",
             "open_issues": 2,
             "owner": "logpai",
             "repo": "loghub",
-            "stars": 2811,
+            "stars": 2812,
             "topics": [
               "anomaly-detection",
               "datasets",
@@ -769,7 +769,7 @@
             "open_issues": 126,
             "owner": "alibaba",
             "repo": "clusterdata",
-            "stars": 2163,
+            "stars": 2166,
             "topics": [
               "dataset"
             ]
@@ -792,7 +792,7 @@
             "open_issues": 19,
             "owner": "Azure",
             "repo": "AzurePublicDataset",
-            "stars": 1185,
+            "stars": 1186,
             "topics": []
           },
           "first_seen": "2026-08-28T21:05:08.856Z"
@@ -870,10 +870,10 @@
                 "language": "Go",
                 "license": "NOASSERTION",
                 "last_commit": "2026-07-20T21:23:51Z",
-                "open_issues": 62,
+                "open_issues": 63,
                 "owner": "google",
                 "repo": "cadvisor",
-                "stars": 19386,
+                "stars": 19387,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
@@ -891,10 +891,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-29T12:54:42Z",
-                "open_issues": 304,
+                "open_issues": 303,
                 "owner": "prometheus",
                 "repo": "node_exporter",
-                "stars": 13739,
+                "stars": 13740,
                 "topics": [
                   "host-metrics",
                   "machine-metrics",
@@ -925,7 +925,7 @@
                 "open_issues": 74,
                 "owner": "blue-yonder",
                 "repo": "tsfresh",
-                "stars": 9302,
+                "stars": 9303,
                 "topics": [
                   "data-science",
                   "feature-extraction",
@@ -950,7 +950,7 @@
                 "open_issues": 168,
                 "owner": "prometheus",
                 "repo": "blackbox_exporter",
-                "stars": 5849,
+                "stars": 5850,
                 "topics": [
                   "blackbox-exporter",
                   "icmp",
@@ -979,11 +979,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T13:28:40Z",
-                "open_issues": 6004,
+                "last_commit": "2026-08-30T10:08:45Z",
+                "open_issues": 6017,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77877,
+                "stars": 77879,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -1004,11 +1004,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T13:28:40Z",
-                "open_issues": 6004,
+                "last_commit": "2026-08-30T10:08:45Z",
+                "open_issues": 6017,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 77877,
+                "stars": 77879,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -1029,11 +1029,11 @@
                 "id": 129717717,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-08-29T12:23:43Z",
-                "open_issues": 1727,
+                "last_commit": "2026-08-30T13:13:43Z",
+                "open_issues": 1739,
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28804,
+                "stars": 28809,
                 "topics": [
                   "cloudnative",
                   "grafana",
@@ -1095,7 +1095,7 @@
                 "open_issues": 40,
                 "owner": "apache",
                 "repo": "skywalking",
-                "stars": 24934,
+                "stars": 24936,
                 "topics": [
                   "apm",
                   "dapper",
@@ -1127,11 +1127,11 @@
                 "id": 56342508,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T18:56:59Z",
-                "open_issues": 559,
+                "last_commit": "2026-08-29T16:25:13Z",
+                "open_issues": 561,
                 "owner": "jaegertracing",
                 "repo": "jaeger",
-                "stars": 23157,
+                "stars": 23164,
                 "topics": [
                   "cncf",
                   "distributed-tracing",
@@ -1160,7 +1160,7 @@
                 "open_issues": 175,
                 "owner": "openzipkin",
                 "repo": "zipkin",
-                "stars": 17455,
+                "stars": 17454,
                 "topics": [
                   "distributed-tracing",
                   "observability",
@@ -1194,7 +1194,7 @@
                 "open_issues": 3,
                 "owner": "locustio",
                 "repo": "locust",
-                "stars": 28114,
+                "stars": 28115,
                 "topics": [
                   "benchmarking",
                   "http",
@@ -1227,7 +1227,7 @@
                 "open_issues": 122,
                 "owner": "tsenart",
                 "repo": "vegeta",
-                "stars": 25169,
+                "stars": 25171,
                 "topics": [
                   "benchmarking",
                   "go",
@@ -1250,10 +1250,10 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-08-27T11:30:17Z",
-                "open_issues": 971,
+                "open_issues": 976,
                 "owner": "apache",
                 "repo": "jmeter",
-                "stars": 9522,
+                "stars": 9523,
                 "topics": [
                   "java",
                   "performance",
@@ -1340,7 +1340,7 @@
                 "open_issues": 34,
                 "owner": "Netflix",
                 "repo": "chaosmonkey",
-                "stars": 17093,
+                "stars": 17096,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
@@ -1361,7 +1361,7 @@
                 "open_issues": 548,
                 "owner": "chaos-mesh",
                 "repo": "chaos-mesh",
-                "stars": 7859,
+                "stars": 7862,
                 "topics": [
                   "chaos",
                   "chaos-engineering",
@@ -1396,7 +1396,7 @@
                 "open_issues": 365,
                 "owner": "chaosblade-io",
                 "repo": "chaosblade",
-                "stars": 6512,
+                "stars": 6513,
                 "topics": [
                   "alibaba",
                   "chaos-engineering",
@@ -1426,7 +1426,7 @@
                 "open_issues": 3,
                 "owner": "chaostoolkit",
                 "repo": "chaostoolkit",
-                "stars": 2020,
+                "stars": 2021,
                 "topics": [
                   "automation",
                   "chaos-engineering",
@@ -1467,7 +1467,7 @@
             "open_issues": 613,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 366691,
+            "stars": 366817,
             "topics": [
               "design",
               "design-patterns",
@@ -1502,7 +1502,7 @@
             "open_issues": 0,
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 35015,
+            "stars": 35023,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1533,7 +1533,7 @@
             "open_issues": 101,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13464,
+            "stars": 13468,
             "topics": [
               "alerting",
               "availability",
@@ -1575,7 +1575,7 @@
             "open_issues": 11,
             "owner": "upgundecha",
             "repo": "howtheysre",
-            "stars": 9802,
+            "stars": 9800,
             "topics": [
               "alerting",
               "chaos-engineering",
@@ -1617,7 +1617,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9370,
+            "stars": 9369,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1653,10 +1653,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2023-12-28T19:30:06Z",
-            "open_issues": 72,
+            "open_issues": 71,
             "owner": "dastergon",
             "repo": "awesome-chaos-engineering",
-            "stars": 6642,
+            "stars": 6644,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1802,10 +1802,10 @@
             "language": "Makefile",
             "license": "CC0-1.0",
             "last_commit": "2026-08-15T20:44:38Z",
-            "open_issues": 9,
+            "open_issues": 10,
             "owner": "adriannovegil",
             "repo": "awesome-observability",
-            "stars": 657,
+            "stars": 658,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1819,7 +1819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T14:55:32.010Z",
+    "last_updated": "2026-08-30T14:40:13.463Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for failure diagnosis research.",
