@@ -289,6 +289,33 @@
             },
             {
               "node_type": "item",
+              "title": "FSE'24 - BARO: Robust Root Cause Analysis for Microservices via Multivariate Bayesian Online Change Point Detection",
+              "description": "phamquiluan/baro",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "[FSE'24 - 🏆 Best Artifact Award] BARO: Robust Root Cause Analysis for Time Series Data.",
+                "homepage": "https://doi.org/10.1145/3660805",
+                "id": 787200147,
+                "language": "Jupyter Notebook",
+                "license": "MIT",
+                "last_commit": "2026-03-10T04:05:17Z",
+                "open_issues": 0,
+                "owner": "phamquiluan",
+                "repo": "baro",
+                "stars": 71,
+                "topics": [
+                  "aiops",
+                  "anomaly-detection",
+                  "microservices",
+                  "root-cause-analysis",
+                  "site-reliability-engineering"
+                ]
+              },
+              "first_seen": "2026-08-28T21:05:08.856Z"
+            },
+            {
+              "node_type": "item",
               "title": "NeuIPS'22 - Root Cause Discovery: Root Cause Analysis of Failures in Microservices through Causal Discovery",
               "description": "azamikram/rcd",
               "children": [],
@@ -305,33 +332,6 @@
                 "repo": "rcd",
                 "stars": 71,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:05:08.856Z"
-            },
-            {
-              "node_type": "item",
-              "title": "FSE'24 - BARO: Robust Root Cause Analysis for Microservices via Multivariate Bayesian Online Change Point Detection",
-              "description": "phamquiluan/baro",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "[FSE'24 - 🏆 Best Artifact Award] BARO: Robust Root Cause Analysis for Time Series Data.",
-                "homepage": "https://doi.org/10.1145/3660805",
-                "id": 787200147,
-                "language": "Jupyter Notebook",
-                "license": "MIT",
-                "last_commit": "2026-03-10T04:05:17Z",
-                "open_issues": 0,
-                "owner": "phamquiluan",
-                "repo": "baro",
-                "stars": 70,
-                "topics": [
-                  "aiops",
-                  "anomaly-detection",
-                  "microservices",
-                  "root-cause-analysis",
-                  "site-reliability-engineering"
-                ]
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
             },
@@ -396,7 +396,7 @@
                 "id": 60705895,
                 "language": null,
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-05T11:12:27Z",
+                "last_commit": "2026-10-06T11:02:03Z",
                 "open_issues": 2,
                 "owner": "logpai",
                 "repo": "loghub",
@@ -569,7 +569,7 @@
             "open_issues": 82,
             "owner": "GoogleCloudPlatform",
             "repo": "microservices-demo",
-            "stars": 21033,
+            "stars": 21034,
             "topics": [
               "gcp",
               "gke",
@@ -736,7 +736,7 @@
             "id": 60705895,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-05T11:12:27Z",
+            "last_commit": "2026-10-06T11:02:03Z",
             "open_issues": 2,
             "owner": "logpai",
             "repo": "loghub",
@@ -873,7 +873,7 @@
                 "open_issues": 68,
                 "owner": "google",
                 "repo": "cadvisor",
-                "stars": 19468,
+                "stars": 19469,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
@@ -894,7 +894,7 @@
                 "open_issues": 327,
                 "owner": "prometheus",
                 "repo": "node_exporter",
-                "stars": 13826,
+                "stars": 13827,
                 "topics": [
                   "host-metrics",
                   "machine-metrics",
@@ -925,7 +925,7 @@
                 "open_issues": 75,
                 "owner": "blue-yonder",
                 "repo": "tsfresh",
-                "stars": 9468,
+                "stars": 9470,
                 "topics": [
                   "data-science",
                   "feature-extraction",
@@ -947,10 +947,10 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-03T20:38:11Z",
-                "open_issues": 160,
+                "open_issues": 137,
                 "owner": "prometheus",
                 "repo": "blackbox_exporter",
-                "stars": 5892,
+                "stars": 5894,
                 "topics": [
                   "blackbox-exporter",
                   "icmp",
@@ -979,11 +979,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T10:06:53Z",
-                "open_issues": 6143,
+                "last_commit": "2026-10-06T16:28:23Z",
+                "open_issues": 6154,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 78196,
+                "stars": 78199,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -1004,11 +1004,11 @@
                 "id": 507775,
                 "language": "Java",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-06T10:06:53Z",
-                "open_issues": 6143,
+                "last_commit": "2026-10-06T16:28:23Z",
+                "open_issues": 6154,
                 "owner": "elastic",
                 "repo": "elasticsearch",
-                "stars": 78196,
+                "stars": 78199,
                 "topics": [
                   "elasticsearch",
                   "java",
@@ -1029,11 +1029,11 @@
                 "id": 129717717,
                 "language": "Go",
                 "license": "AGPL-3.0",
-                "last_commit": "2026-10-06T10:16:35Z",
-                "open_issues": 1036,
+                "last_commit": "2026-10-06T16:18:21Z",
+                "open_issues": 1030,
                 "owner": "grafana",
                 "repo": "loki",
-                "stars": 28990,
+                "stars": 28991,
                 "topics": [
                   "cloudnative",
                   "grafana",
@@ -1092,7 +1092,7 @@
                 "language": "Java",
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-30T03:03:58Z",
-                "open_issues": 38,
+                "open_issues": 37,
                 "owner": "apache",
                 "repo": "skywalking",
                 "stars": 24967,
@@ -1127,8 +1127,8 @@
                 "id": 56342508,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-06T00:51:49Z",
-                "open_issues": 552,
+                "last_commit": "2026-10-06T15:49:09Z",
+                "open_issues": 560,
                 "owner": "jaegertracing",
                 "repo": "jaeger",
                 "stars": 23269,
@@ -1278,7 +1278,7 @@
                 "open_issues": 105,
                 "owner": "giltene",
                 "repo": "wrk2",
-                "stars": 4634,
+                "stars": 4635,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
@@ -1340,7 +1340,7 @@
                 "open_issues": 34,
                 "owner": "Netflix",
                 "repo": "chaosmonkey",
-                "stars": 17163,
+                "stars": 17165,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:05:08.856Z"
@@ -1361,7 +1361,7 @@
                 "open_issues": 535,
                 "owner": "chaos-mesh",
                 "repo": "chaos-mesh",
-                "stars": 7929,
+                "stars": 7930,
                 "topics": [
                   "chaos",
                   "chaos-engineering",
@@ -1467,7 +1467,7 @@
             "open_issues": 624,
             "owner": "donnemartin",
             "repo": "system-design-primer",
-            "stars": 373342,
+            "stars": 373386,
             "topics": [
               "design",
               "design-patterns",
@@ -1498,11 +1498,11 @@
             "id": 28387406,
             "language": null,
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T18:19:08Z",
+            "last_commit": "2026-10-06T15:06:19Z",
             "open_issues": 0,
             "owner": "awesome-foss",
             "repo": "awesome-sysadmin",
-            "stars": 35340,
+            "stars": 35342,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1533,7 +1533,7 @@
             "open_issues": 114,
             "owner": "dastergon",
             "repo": "awesome-sre",
-            "stars": 13703,
+            "stars": 13704,
             "topics": [
               "alerting",
               "availability",
@@ -1617,7 +1617,7 @@
             "open_issues": 14,
             "owner": "yzhao062",
             "repo": "anomaly-detection-resources",
-            "stars": 9406,
+            "stars": 9407,
             "topics": [
               "anomaly-detection",
               "awesome",
@@ -1656,7 +1656,7 @@
             "open_issues": 75,
             "owner": "dastergon",
             "repo": "awesome-chaos-engineering",
-            "stars": 6663,
+            "stars": 6664,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1686,10 +1686,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2025-01-22T11:00:42Z",
-            "open_issues": 2,
+            "open_issues": 3,
             "owner": "rguo12",
             "repo": "awesome-causality-algorithms",
-            "stars": 3289,
+            "stars": 3290,
             "topics": [
               "awesome",
               "baselines",
@@ -1819,7 +1819,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:21:59.600Z",
+    "last_updated": "2026-10-06T16:29:28.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "Awesome resources for failure diagnosis research.",
