@@ -55,7 +55,7 @@
 * [FSE'22 - Actionable and interpretable fault localization for recurring failures in online service systems.](https://dl.acm.org/doi/abs/10.1145/3540250.3549092) [\[Code\]](https://github.com/NetManAIOps/DejaVu) ⭐ 84 | 🐛 6 | 🌐 Jupyter Notebook | 📅 2022-10-24
 * [FSE'23 - Nezha: Interpretable Fine-Grained Root Causes Analysis for Microservices on Multi-modal Observability Data](https://dl.acm.org/doi/abs/10.1145/3611643.3616249) [\[Code\]](https://github.com/IntelligentDDS/Nezha) ⭐ 79 | 🐛 7 | 🌐 Python | 📅 2025-05-20
 * [FSE'24 - BARO: Robust Root Cause Analysis for Microservices via Multivariate Bayesian Online Change Point Detection](https://2024.esec-fse.org/details/fse-2024-research-papers/81/BARO-Robust-Root-Cause-Analysis-for-Microservices-via-Multivariate-Bayesian-Online-C) [\[Code\]](https://github.com/phamquiluan/baro/) ⭐ 74 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-03-10
-* [NeuIPS'22 - Root Cause Discovery: Root Cause Analysis of Failures in Microservices through Causal Discovery](https://openreview.net/forum?id=weoLjoYFvXY) [\[Code\]](https://github.com/azamikram/rcd) ⭐ 71 | 🐛 2 | 🌐 Python | 📅 2024-04-26
+* [NeuIPS'22 - Root Cause Discovery: Root Cause Analysis of Failures in Microservices through Causal Discovery](https://openreview.net/forum?id=weoLjoYFvXY) [\[Code\]](https://github.com/azamikram/rcd) ⭐ 70 | 🐛 2 | 🌐 Python | 📅 2024-04-26
 * [ICSE'23 - Eadro: An End-to-End Troubleshooting Framework for Microservices on Multi-source Data](https://arxiv.org/abs/2302.05092) [\[Code\]](https://github.com/BEbillionaireUSD/Eadro) ⭐ 66 | 🐛 9 | 🌐 Python | 📅 2023-02-07
 * [HeMiRCA: Fine-Grained Root Cause Analysis for Microservices with Heterogeneous Data Sources](https://dl.acm.org/doi/pdf/10.1145/3674726) [\[Code\]](https://github.com/Zhuzrx/HeMiRCA/) ⭐ 3 | 🐛 1 | 🌐 Python | 📅 2026-06-08
 * [FSE'26 - TORAI: Multi-Source Root Cause Analysis for \textit{Blind Spots} in Microservice Service Call Graph](https://arxiv.org/abs/2604.13522)
@@ -75,7 +75,7 @@
 
 ## Others Paper
 
-* [2020 - Loghub: a large collection of system log datasets towards automated log analytics.](https://arxiv.org/abs/2008.06448) [\[Code\]](https://github.com/logpai/loghub) ⭐ 2,885 | 🐛 2 | 📅 2026-10-23
+* [2020 - Loghub: a large collection of system log datasets towards automated log analytics.](https://arxiv.org/abs/2008.06448) [\[Code\]](https://github.com/logpai/loghub) ⭐ 2,885 | 🐛 2 | 📅 2026-10-24
 * [ICSE'19 - Tools and Benchmarks for Automated Log Parsing.](https://ieeexplore.ieee.org/abstract/document/8804456) [\[Code\]](https://github.com/logpai/logparser) ⭐ 1,995 | 🐛 8 | 🌐 Python | 📅 2025-06-10
 * [WWW'25 - RCAEval: A Benchmark for Root Cause Analysis of Microservice Systems with Telemetry Data](https://arxiv.org/abs/2412.17015) [\[Code\]](https://github.com/phamquiluan/rcaeval/) ⭐ 246 | 🐛 4 | 🌐 Python | 📅 2026-10-20
 * [TNSM'2017 - Mining causality of network events in log data.](https://ieeexplore.ieee.org/abstract/document/8122062) [\[Code\]](https://github.com/cpflat/LogCausalAnalysis) ⭐ 29 | 🐛 1 | 🌐 Python | 📅 2019-07-01
@@ -132,7 +132,7 @@
 
 # Benchmark & Microservices Systems
 
-* [Online Boutique @ Google Cloud](https://github.com/GoogleCloudPlatform/microservices-demo) ⭐ 21,080 | 🐛 95 | 🌐 Go | 📅 2026-10-22
+* [Online Boutique @ Google Cloud](https://github.com/GoogleCloudPlatform/microservices-demo) ⭐ 21,085 | 🐛 96 | 🌐 Go | 📅 2026-10-23
 * [Sock Shop @ Weaveworks](https://github.com/microservices-demo/microservices-demo) ⚠️ Archived
 * [Robot Shop @ Instana](https://github.com/instana/robot-shop) ⚠️ Archived
 * [Train Ticket @ Fudan University](https://github.com/FudanSELab/train-ticket) ⭐ 920 | 🐛 73 | 🌐 Java | 📅 2025-11-21 (40+ microservices) [How to deloy](docs/how-to-deploy-train-ticket.md)
@@ -145,8 +145,8 @@
 
 # Dataset
 
-* <https://github.com/logpai/loghub> ⭐ 2,885 | 🐛 2 | 📅 2026-10-23
-* <https://github.com/alibaba/clusterdata> ⭐ 2,236 | 🐛 130 | 🌐 Jupyter Notebook | 📅 2026-10-13
+* <https://github.com/logpai/loghub> ⭐ 2,885 | 🐛 2 | 📅 2026-10-24
+* <https://github.com/alibaba/clusterdata> ⭐ 2,238 | 🐛 130 | 🌐 Jupyter Notebook | 📅 2026-10-13
 * <https://github.com/Azure/AzurePublicDataset> ⭐ 1,217 | 🐛 18 | 🌐 Jupyter Notebook | 📅 2026-10-01
 * <https://github.com/huawei-noah/trustworthyAI/tree/master/gcastle> ⭐ 1,150 | 🐛 24 | 🌐 Python | 📅 2026-09-21
 * <https://github.com/shaido987/alarm-rca> ⭐ 18 | 🐛 4 | 📅 2022-07-07
@@ -161,38 +161,38 @@
 ## Metrics
 
 * [cAdvisor (Container Advisor)](https://github.com/google/cadvisor) ⭐ 19,497 | 🐛 75 | 🌐 Go | 📅 2026-10-12: Analyzes resource usage and performance characteristics of running containers.
-* [Prometheus - Node Exporter](https://github.com/prometheus/node_exporter) ⭐ 13,874 | 🐛 326 | 🌐 Go | 📅 2026-10-22: Exporter for machine metrics.
+* [Prometheus - Node Exporter](https://github.com/prometheus/node_exporter) ⭐ 13,876 | 🐛 327 | 🌐 Go | 📅 2026-10-22: Exporter for machine metrics.
 * [tsfresh](https://github.com/blue-yonder/tsfresh) ⭐ 9,479 | 🐛 80 | 🌐 Jupyter Notebook | 📅 2026-07-06: Automatic extraction of relevant features from time series.
-* [Prometheus - Blackbox prober exporter](https://github.com/prometheus/blackbox_exporter) ⭐ 5,912 | 🐛 122 | 🌐 Go | 📅 2026-10-22: Allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP, ICMP and gRPC.
+* [Prometheus - Blackbox prober exporter](https://github.com/prometheus/blackbox_exporter) ⭐ 5,914 | 🐛 122 | 🌐 Go | 📅 2026-10-22: Allows blackbox probing of endpoints over HTTP, HTTPS, DNS, TCP, ICMP and gRPC.
 * <https://prometheus.io/docs>
 
 ## Logs
 
-* ELK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,342 | 🐛 6,188 | 🌐 Java | 📅 2026-10-23 + [Logstash](https://www.elastic.co/logstash/) + [Kibana](https://www.elastic.co/kibana/))
-* EFK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,342 | 🐛 6,188 | 🌐 Java | 📅 2026-10-23 + [Fluentd](https://www.fluentd.org/) + [Kibana](https://www.elastic.co/kibana/))
-* <https://github.com/grafana/loki> ⭐ 29,050 | 🐛 1,158 | 🌐 Go | 📅 2026-10-23
+* ELK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,357 | 🐛 6,175 | 🌐 Java | 📅 2026-10-24 + [Logstash](https://www.elastic.co/logstash/) + [Kibana](https://www.elastic.co/kibana/))
+* EFK ([Elasticsearch](https://github.com/elastic/elasticsearch) ⭐ 78,357 | 🐛 6,175 | 🌐 Java | 📅 2026-10-24 + [Fluentd](https://www.fluentd.org/) + [Kibana](https://www.elastic.co/kibana/))
+* <https://github.com/grafana/loki> ⭐ 29,054 | 🐛 1,178 | 🌐 Go | 📅 2026-10-24
 * <https://github.com/logpai/loglizer> ⭐ 1,431 | 🐛 32 | 🌐 Jupyter Notebook | 📅 2024-04-24
 
 ## Traces
 
-* <https://github.com/apache/skywalking> ⭐ 24,975 | 🐛 32 | 🌐 Java | 📅 2026-10-23
-* <https://github.com/jaegertracing/jaeger> ⭐ 23,332 | 🐛 565 | 🌐 Go | 📅 2026-10-23
+* <https://github.com/apache/skywalking> ⭐ 24,973 | 🐛 32 | 🌐 Java | 📅 2026-10-23
+* <https://github.com/jaegertracing/jaeger> ⭐ 23,333 | 🐛 562 | 🌐 Go | 📅 2026-10-24
 * <https://github.com/openzipkin/zipkin> ⭐ 17,470 | 🐛 176 | 🌐 Java | 📅 2026-08-06
 * [OpenTelemetry](https://opentelemetry.io/docs/concepts/signals/): supports metrics, logs, and traces.
 
 ## Load generators
 
-* [Locust](https://github.com/locustio/locust) ⭐ 28,235 | 🐛 9 | 🌐 Python | 📅 2026-10-21: a load testing tool for web applications. It is used to simulate a large number of users accessing a web application simultaneously, in order to test its performance and scalability.
-* [Vegeta](https://github.com/tsenart/vegeta) ⭐ 25,228 | 🐛 125 | 🌐 Go | 📅 2026-09-24: HTTP load testing tool and library. It's over 9000!
-* [Jmeter](https://github.com/apache/jmeter) ⭐ 9,574 | 🐛 983 | 🌐 Java | 📅 2026-10-01: a testing tool used to test the performance of web applications, databases, and APIs. It can simulate a heavy load on a server, group of servers, network, or object to test its strength or to analyze overall performance under different load types. It can also be used to test the performance of different protocols such as HTTP, FTP, TCP, JDBC, and JMS.
+* [Locust](https://github.com/locustio/locust) ⭐ 28,236 | 🐛 9 | 🌐 Python | 📅 2026-10-21: a load testing tool for web applications. It is used to simulate a large number of users accessing a web application simultaneously, in order to test its performance and scalability.
+* [Vegeta](https://github.com/tsenart/vegeta) ⭐ 25,226 | 🐛 125 | 🌐 Go | 📅 2026-09-24: HTTP load testing tool and library. It's over 9000!
+* [Jmeter](https://github.com/apache/jmeter) ⭐ 9,576 | 🐛 983 | 🌐 Java | 📅 2026-10-01: a testing tool used to test the performance of web applications, databases, and APIs. It can simulate a heavy load on a server, group of servers, network, or object to test its strength or to analyze overall performance under different load types. It can also be used to test the performance of different protocols such as HTTP, FTP, TCP, JDBC, and JMS.
 * [wrk2](https://github.com/giltene/wrk2) ⭐ 4,638 | 🐛 106 | 🌐 C | 📅 2024-03-03: HTTP workload generator.
 * [Stress-ng](https://github.com/ColinIanKing/stress-ng) ⭐ 2,804 | 🐛 1 | 🌐 C | 📅 2026-10-23: a tool that can be used to stress test various aspects of a Linux system, such as the CPU, memory, I/O, and network.
 
 ## Chaos Engineering / Fault Injection
 
-* <https://github.com/Netflix/chaosmonkey> ⭐ 17,184 | 🐛 34 | 🌐 Go | 📅 2025-01-06
-* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,948 | 🐛 507 | 🌐 Go | 📅 2026-10-23: an open-source chaos engineering platform for Kubernetes. It provides a set of APIs and CLI tools that allow users to define and orchestrate chaos experiments, such as network latency injection, pod failure, etc.
-* [ChaosBlade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,470 | 🐛 357 | 🌐 Python | 📅 2026-10-21: a performance testing and analysis tool for microservices. It allows users to simulate various types of failures and network conditions, such as network delays and packet loss, to test the resilience and stability of microservices in a controlled environment.
+* <https://github.com/Netflix/chaosmonkey> ⭐ 17,182 | 🐛 34 | 🌐 Go | 📅 2025-01-06
+* [Chaos Mesh](https://github.com/chaos-mesh/chaos-mesh) ⭐ 7,949 | 🐛 451 | 🌐 Go | 📅 2026-10-24: an open-source chaos engineering platform for Kubernetes. It provides a set of APIs and CLI tools that allow users to define and orchestrate chaos experiments, such as network latency injection, pod failure, etc.
+* [ChaosBlade](https://github.com/chaosblade-io/chaosblade) ⭐ 6,461 | 🐛 357 | 🌐 Python | 📅 2026-10-21: a performance testing and analysis tool for microservices. It allows users to simulate various types of failures and network conditions, such as network delays and packet loss, to test the resilience and stability of microservices in a controlled environment.
 * [Chaos Toolkit](https://github.com/chaostoolkit/chaostoolkit) ⭐ 2,033 | 🐛 3 | 🌐 Python | 📅 2026-10-05: a CLI tool which helps to run Chaos Engineering experiments.
 * [TC (Traffic Control)](https://man7.org/linux/man-pages/man8/tc.8.html): Delay and drop packets.
 * [tc-netem (Network Emulator)](https://man7.org/linux/man-pages/man8/tc-netem.8.html): an enhancement of the Linux traffic control facilities that allow one to add delay, packet loss, duplication and more other characteristics to packets outgoing from a selected network interface. NetEm is built using the existing Quality Of Service (QOS) and Differentiated Services (diffserv) facilities in the Linux kernel.
@@ -231,19 +231,19 @@
 
 # Others
 
-* <https://github.com/donnemartin/system-design-primer> ⭐ 375,287 | 🐛 631 | 🌐 Python | 📅 2026-09-15
-* <https://github.com/awesome-foss/awesome-sysadmin> ⭐ 35,477 | 🐛 0 | 📅 2026-10-22
-* <https://github.com/dastergon/awesome-sre> ⭐ 13,736 | 🐛 116 | 📅 2025-08-28
+* <https://github.com/donnemartin/system-design-primer> ⭐ 375,409 | 🐛 632 | 🌐 Python | 📅 2026-09-15
+* <https://github.com/awesome-foss/awesome-sysadmin> ⭐ 35,485 | 🐛 0 | 📅 2026-10-22
+* <https://github.com/dastergon/awesome-sre> ⭐ 13,735 | 🐛 116 | 📅 2025-08-28
 * <https://github.com/upgundecha/howtheysre> ⭐ 9,831 | 🐛 11 | 🌐 JavaScript | 📅 2026-09-30
 * <https://github.com/yzhao062/anomaly-detection-resources> ⭐ 9,424 | 🐛 14 | 🌐 Python | 📅 2026-03-02
-* <https://github.com/dastergon/awesome-chaos-engineering> ⭐ 6,677 | 🐛 75 | 📅 2023-12-28
-* <https://github.com/rguo12/awesome-causality-algorithms> ⭐ 3,294 | 🐛 2 | 📅 2026-10-07
+* <https://github.com/dastergon/awesome-chaos-engineering> ⭐ 6,678 | 🐛 75 | 📅 2023-12-28
+* <https://github.com/rguo12/awesome-causality-algorithms> ⭐ 3,295 | 🐛 2 | 📅 2026-10-07
 * <https://github.com/hoya012/awesome-anomaly-detection> ⭐ 2,919 | 🐛 10 | 📅 2022-09-20
 * <https://github.com/chenryn/aiops-handbook> ⭐ 1,572 | 🐛 0 | 📅 2026-03-17
 * <https://github.com/logpai/awesome-log-analysis> ⭐ 810 | 🐛 3 | 📅 2023-12-31
-* <https://github.com/adriannovegil/awesome-observability> ⭐ 723 | 🐛 29 | 🌐 Makefile | 📅 2026-09-28
+* <https://github.com/adriannovegil/awesome-observability> ⭐ 722 | 🐛 30 | 🌐 Makefile | 📅 2026-09-28
 * <https://www.amazon.science/blog/a-gentle-introduction-to-automated-reasoning>
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._
